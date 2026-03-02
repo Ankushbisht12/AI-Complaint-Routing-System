@@ -8,10 +8,8 @@ API_BASE = "http://127.0.0.1:8001"
 
 st.set_page_config(page_title="AI Complaint Routing", layout="wide")
 
-# ==========================
-# BACKGROUND IMAGE
-# ==========================
 
+# BACKGROUND IMAGE
 def add_bg(image_file):
     with open(image_file, "rb") as img:
         encoded = base64.b64encode(img.read()).decode()
@@ -41,20 +39,40 @@ def add_bg(image_file):
 
 add_bg("assets/background.png")
 
-# ==========================
-# SESSION STATE
-# ==========================
 
+# SESSION STATE
 if "token" not in st.session_state:
     st.session_state.token = None
 
 if "role" not in st.session_state:
     st.session_state.role = None
 
-# ==========================
-# LOGIN
-# ==========================
+# REGISTER
+def register_page():
+    st.title("📝 Create Account")
 
+    name = st.text_input("Full Name")
+    email = st.text_input("Email")
+    password = st.text_input("Password", type="password")
+    flat_number = st.text_input("Flat Number")
+
+    if st.button("Register"):
+        response = requests.post(
+            f"{API_BASE}/register",
+            json={
+                "name": name,
+                "email": email,
+                "password": password,
+                "flat_number": flat_number
+            }
+        )
+
+        if response.status_code == 200:
+            st.success("Account created successfully. Please login.")
+        else:
+            st.error(response.text)
+
+# LOGIN
 def login_page():
     st.title("🔐 Login")
 
@@ -74,7 +92,6 @@ def login_page():
             token = response.json()["access_token"]
             st.session_state.token = token
 
-            # Decode JWT to extract role
             decoded = jwt.decode(token, options={"verify_signature": False})
             st.session_state.role = decoded.get("role")
 
@@ -83,10 +100,7 @@ def login_page():
         else:
             st.error("Invalid credentials")
 
-# ==========================
 # SUBMIT COMPLAINT
-# ==========================
-
 def submit_complaint_page():
 
     st.title("📨 Submit New Complaint")
@@ -96,7 +110,6 @@ def submit_complaint_page():
     text_input = st.text_area("📝 Complaint Description (Optional if recording)")
 
     st.markdown("### 🎙 Record Audio Complaint")
-
     audio_data = st.audio_input("Tap to Record")
 
     if st.button("🚀 Submit Complaint"):
@@ -150,10 +163,7 @@ def submit_complaint_page():
             st.error(f"Error {response.status_code}")
             st.write(response.text)
 
-# ==========================
 # VIEW COMPLAINTS
-# ==========================
-
 def view_complaints():
 
     st.title("📋 Complaints")
@@ -180,7 +190,6 @@ def view_complaints():
         st.write(f"**Text:** {c['text']}")
         st.write(f"**Status:** {c['status']}")
 
-        # ADMIN CONTROLS
         if st.session_state.role == "admin" and c["status"] == "pending":
 
             actual_priority = st.selectbox(
@@ -208,9 +217,7 @@ def view_complaints():
                 st.success("Complaint Resolved")
                 st.rerun()
 
-# ==========================
-# MODEL EVALUATION (PUBLIC)
-# ==========================
+# MODEL EVALUATION
 
 def evaluation_dashboard():
 
@@ -245,15 +252,17 @@ def evaluation_dashboard():
 
     st.bar_chart(chart_data.set_index("Metric"))
 
-# ==========================
-# MAIN ROUTING
-# ==========================
+# SIDEBAR NAVIGATION
 
 with st.sidebar:
     st.title("🧭 Navigation")
 
     if st.session_state.token is None:
-        page = st.radio("Go to", ["Login", "Model Evaluation"])
+        page = st.radio("Go to", [
+            "Login",
+            "Register",
+            "Model Evaluation"
+        ])
     else:
         if st.session_state.role == "admin":
             page = st.radio("Go to", [
@@ -270,8 +279,13 @@ with st.sidebar:
                 "Logout"
             ])
 
+# ROUTING
+
 if page == "Login":
     login_page()
+
+elif page == "Register":
+    register_page()
 
 elif page == "Submit Complaint":
     submit_complaint_page()
@@ -287,28 +301,3 @@ elif page == "Logout":
     st.session_state.role = None
     st.success("Logged out")
     st.rerun()
-
-
-def register_page():
-    st.title("📝 Create Account")
-
-    name = st.text_input("Full Name")
-    email = st.text_input("Email")
-    password = st.text_input("Password", type="password")
-    flat_number = st.text_input("Flat Number")
-
-    if st.button("Register"):
-        response = requests.post(
-            f"{API_BASE}/register",
-            json={
-                "name": name,
-                "email": email,
-                "password": password,
-                "flat_number": flat_number
-            }
-        )
-
-        if response.status_code == 200:
-            st.success("Account created successfully. Please login.")
-        else:
-            st.error(response.text)    

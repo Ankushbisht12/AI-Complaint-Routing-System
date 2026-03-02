@@ -74,16 +74,13 @@ def startup_event():
 
     db.close()
 
-# -------------------------
 # Root
-# -------------------------
 @app.get("/")
 def root():
     return {"message": "Complaint Routing System Running"}
 
-# -------------------------
+
 # Register
-# -------------------------
 @app.post("/register")
 def register(user: UserRegister, db: Session = Depends(get_db)):
 
@@ -106,9 +103,8 @@ def register(user: UserRegister, db: Session = Depends(get_db)):
 
     return {"message": "User registered successfully"}
 
-# -------------------------
+
 # Login
-# -------------------------
 @app.post("/login")
 def login(form_data: OAuth2PasswordRequestForm = Depends()):
 
@@ -224,7 +220,7 @@ def resolve_complaint(
 
     complaint.actual_priority = actual_priority
     complaint.actual_resolution_days = actual_resolution_days
-    complaint.resolved_at = datetime.utcnow()
+    complaint.resolved_at = datetime.datetime.utcnow()
     complaint.status = ComplaintStatus.resolved
 
     db.commit()

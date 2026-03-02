@@ -29,7 +29,7 @@ loginBtn.addEventListener("click", async function () {
             alert(data.detail || "Login failed");
         }
 
-    } catch (error) {
+    }catch (error) {
         alert("Server error. Make sure backend is running.");
     }
 });

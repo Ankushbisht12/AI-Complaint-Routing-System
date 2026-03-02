@@ -6,7 +6,7 @@ import ffmpeg
 # Load model once (small model for speed)
 model = WhisperModel(
     "base",
-    device="cpu",        # 🔥 FORCE CPU
+    device="cpu",        #FORCE CPU
     compute_type="int8"
 )
 def transcribe_audio(file_path: str):
