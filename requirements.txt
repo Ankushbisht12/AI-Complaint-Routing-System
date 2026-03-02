@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+streamlit
+pydantic
+scikit-learn
+pandas
+numpy
+sentence-transformers
+faiss-cpu
+xgboost
+librosa
+opencv-python
+python-multipart

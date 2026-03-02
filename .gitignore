@@ -1,0 +1,23 @@
+# Virtual Environment
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+
+# Database (optional)
+*.db
+*.sqlite3
+
+# Temporary audio files
+temp_*
+
+# Streamlit cache
+.streamlit/
+
+# VS Code
+.vscode/

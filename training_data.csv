@@ -1,0 +1,2001 @@
+text,category,priority,eta_days
+Garbage not collected,Sanitation,low,7
+Water leakage in pipeline,Water Supply,medium,5
+No water supply since 2 days,Water Supply,low,8
+Sewage overflow,Sanitation,medium,3
+Dustbin broken,Sanitation,low,9
+Meter not working,Electricity,low,5
+Broken speed breaker,Road Maintenance,low,6
+Unclean public toilet,Sanitation,low,7
+Transformer blast in area,Electricity,high,1
+Dead animal on road,Sanitation,low,6
+Road damaged after rain,Road Maintenance,medium,4
+Street light not working,Road Maintenance,low,10
+Broken speed breaker,Road Maintenance,low,8
+Dustbin broken,Sanitation,low,6
+Meter not working,Electricity,low,6
+Low water pressure,Water Supply,low,5
+Huge pothole causing accidents,Road Maintenance,high,2
+Sewage overflow,Sanitation,medium,4
+Road damaged after rain,Road Maintenance,medium,3
+Dead animal on road,Sanitation,low,6
+Unclean public toilet,Sanitation,low,6
+Transformer blast in area,Electricity,high,2
+Dustbin broken,Sanitation,low,9
+Low water pressure,Water Supply,low,6
+Power outage since morning,Electricity,medium,3
+Frequent voltage fluctuation,Electricity,low,7
+Huge pothole causing accidents,Road Maintenance,high,2
+No water supply since 2 days,Water Supply,low,5
+Sewage overflow,Sanitation,medium,4
+Garbage not collected,Sanitation,low,8
+Broken speed breaker,Road Maintenance,low,10
+Drain overflow issue,Water Supply,medium,4
+Unclean public toilet,Sanitation,low,8
+Power outage since morning,Electricity,medium,5
+Garbage not collected,Sanitation,low,8
+Road damaged after rain,Road Maintenance,medium,3
+Dead animal on road,Sanitation,low,10
+No water supply since 2 days,Water Supply,low,6
+Drain overflow issue,Water Supply,medium,4
+Low water pressure,Water Supply,low,9
+Drain overflow issue,Water Supply,medium,3
+Huge pothole causing accidents,Road Maintenance,high,1
+Garbage not collected,Sanitation,low,9
+Power outage since morning,Electricity,medium,5
+Garbage not collected,Sanitation,low,10
+Dustbin broken,Sanitation,low,5
+Street light not working,Road Maintenance,low,5
+Electric pole sparking,Electricity,low,10
+Electric pole sparking,Electricity,low,10
+Meter not working,Electricity,low,10
+Road damaged after rain,Road Maintenance,medium,5
+Huge pothole causing accidents,Road Maintenance,high,2
+Dead animal on road,Sanitation,low,7
+Cracked pavement,Road Maintenance,low,9
+Huge pothole causing accidents,Road Maintenance,high,1
+Garbage not collected,Sanitation,low,7
+Electric pole sparking,Electricity,low,8
+Transformer blast in area,Electricity,high,2
+Broken water valve,Water Supply,low,9
+Transformer blast in area,Electricity,high,1
+Drain overflow issue,Water Supply,medium,3
+Sewage overflow,Sanitation,medium,3
+Dead animal on road,Sanitation,low,5
+Street light not working,Road Maintenance,low,6
+No water supply since 2 days,Water Supply,low,6
+Dustbin broken,Sanitation,low,10
+Low water pressure,Water Supply,low,8
+Electric pole sparking,Electricity,low,7
+Low water pressure,Water Supply,low,9
+Sewage overflow,Sanitation,medium,4
+Broken speed breaker,Road Maintenance,low,10
+Huge pothole causing accidents,Road Maintenance,high,1
+No water supply since 2 days,Water Supply,low,6
+Road damaged after rain,Road Maintenance,medium,5
+Frequent voltage fluctuation,Electricity,low,10
+No water supply since 2 days,Water Supply,low,7
+Electric pole sparking,Electricity,low,5
+Unclean public toilet,Sanitation,low,5
+Low water pressure,Water Supply,low,5
+Water leakage in pipeline,Water Supply,medium,5
+Power outage since morning,Electricity,medium,3
+Power outage since morning,Electricity,medium,3
+Frequent voltage fluctuation,Electricity,low,10
+Garbage not collected,Sanitation,low,8
+Cracked pavement,Road Maintenance,low,8
+Sewage overflow,Sanitation,medium,3
+Road damaged after rain,Road Maintenance,medium,3
+Cracked pavement,Road Maintenance,low,8
+Water leakage in pipeline,Water Supply,medium,5
+Low water pressure,Water Supply,low,7
+Frequent voltage fluctuation,Electricity,low,9
+Street light not working,Road Maintenance,low,7
+Electric pole sparking,Electricity,low,7
+Meter not working,Electricity,low,10
+Dustbin broken,Sanitation,low,8
+Street light not working,Road Maintenance,low,6
+Drain overflow issue,Water Supply,medium,3
+No water supply since 2 days,Water Supply,low,7
+Broken water valve,Water Supply,low,6
+Dustbin broken,Sanitation,low,6
+Transformer blast in area,Electricity,high,2
+Transformer blast in area,Electricity,high,1
+Sewage overflow,Sanitation,medium,4
+Frequent voltage fluctuation,Electricity,low,6
+Broken speed breaker,Road Maintenance,low,7
+Garbage not collected,Sanitation,low,6
+Broken speed breaker,Road Maintenance,low,6
+Road damaged after rain,Road Maintenance,medium,4
+Huge pothole causing accidents,Road Maintenance,high,2
+Transformer blast in area,Electricity,high,2
+Huge pothole causing accidents,Road Maintenance,high,2
+No water supply since 2 days,Water Supply,low,8
+Low water pressure,Water Supply,low,5
+Street light not working,Road Maintenance,low,10
+Unclean public toilet,Sanitation,low,7
+Garbage not collected,Sanitation,low,7
+Street light not working,Road Maintenance,low,7
+Dead animal on road,Sanitation,low,10
+Transformer blast in area,Electricity,high,2
+Meter not working,Electricity,low,8
+Meter not working,Electricity,low,9
+Drain overflow issue,Water Supply,medium,4
+Meter not working,Electricity,low,5
+Meter not working,Electricity,low,8
+Broken water valve,Water Supply,low,7
+Frequent voltage fluctuation,Electricity,low,7
+Meter not working,Electricity,low,10
+Sewage overflow,Sanitation,medium,3
+Garbage not collected,Sanitation,low,6
+Broken water valve,Water Supply,low,7
+Dustbin broken,Sanitation,low,9
+Broken water valve,Water Supply,low,5
+Transformer blast in area,Electricity,high,2
+Drain overflow issue,Water Supply,medium,5
+Dustbin broken,Sanitation,low,9
+Broken water valve,Water Supply,low,10
+Frequent voltage fluctuation,Electricity,low,9
+Street light not working,Road Maintenance,low,8
+Dead animal on road,Sanitation,low,7
+Broken speed breaker,Road Maintenance,low,8
+Power outage since morning,Electricity,medium,5
+Huge pothole causing accidents,Road Maintenance,high,1
+Broken speed breaker,Road Maintenance,low,7
+Electric pole sparking,Electricity,low,5
+Street light not working,Road Maintenance,low,5
+Transformer blast in area,Electricity,high,2
+Water leakage in pipeline,Water Supply,medium,5
+Unclean public toilet,Sanitation,low,8
+Unclean public toilet,Sanitation,low,8
+Broken water valve,Water Supply,low,5
+Drain overflow issue,Water Supply,medium,5
+Power outage since morning,Electricity,medium,4
+Dustbin broken,Sanitation,low,8
+Huge pothole causing accidents,Road Maintenance,high,2
+Electric pole sparking,Electricity,low,6
+Low water pressure,Water Supply,low,10
+Meter not working,Electricity,low,8
+Broken speed breaker,Road Maintenance,low,9
+Low water pressure,Water Supply,low,7
+Electric pole sparking,Electricity,low,8
+Transformer blast in area,Electricity,high,1
+Low water pressure,Water Supply,low,7
+Broken water valve,Water Supply,low,9
+Sewage overflow,Sanitation,medium,4
+Frequent voltage fluctuation,Electricity,low,7
+Unclean public toilet,Sanitation,low,9
+Huge pothole causing accidents,Road Maintenance,high,1
+Dead animal on road,Sanitation,low,8
+Broken speed breaker,Road Maintenance,low,5
+Frequent voltage fluctuation,Electricity,low,5
+Frequent voltage fluctuation,Electricity,low,7
+Power outage since morning,Electricity,medium,3
+Street light not working,Road Maintenance,low,8
+Power outage since morning,Electricity,medium,4
+Broken water valve,Water Supply,low,8
+Road damaged after rain,Road Maintenance,medium,3
+Power outage since morning,Electricity,medium,5
+Broken water valve,Water Supply,low,7
+Transformer blast in area,Electricity,high,2
+Frequent voltage fluctuation,Electricity,low,5
+Transformer blast in area,Electricity,high,1
+Garbage not collected,Sanitation,low,5
+Huge pothole causing accidents,Road Maintenance,high,1
+Cracked pavement,Road Maintenance,low,5
+Broken water valve,Water Supply,low,8
+Garbage not collected,Sanitation,low,10
+Huge pothole causing accidents,Road Maintenance,high,2
+Dead animal on road,Sanitation,low,8
+Meter not working,Electricity,low,5
+Huge pothole causing accidents,Road Maintenance,high,1
+Drain overflow issue,Water Supply,medium,4
+Dustbin broken,Sanitation,low,5
+Garbage not collected,Sanitation,low,7
+Broken speed breaker,Road Maintenance,low,7
+Low water pressure,Water Supply,low,6
+Broken water valve,Water Supply,low,9
+Meter not working,Electricity,low,5
+Huge pothole causing accidents,Road Maintenance,high,2
+Drain overflow issue,Water Supply,medium,4
+Frequent voltage fluctuation,Electricity,low,9
+Electric pole sparking,Electricity,low,8
+Road damaged after rain,Road Maintenance,medium,3
+Transformer blast in area,Electricity,high,2
+Huge pothole causing accidents,Road Maintenance,high,2
+Street light not working,Road Maintenance,low,5
+Sewage overflow,Sanitation,medium,4
+Broken water valve,Water Supply,low,5
+Drain overflow issue,Water Supply,medium,3
+No water supply since 2 days,Water Supply,low,10
+Low water pressure,Water Supply,low,7
+Frequent voltage fluctuation,Electricity,low,10
+Sewage overflow,Sanitation,medium,5
+Water leakage in pipeline,Water Supply,medium,4
+Meter not working,Electricity,low,9
+Unclean public toilet,Sanitation,low,10
+Dustbin broken,Sanitation,low,10
+Dustbin broken,Sanitation,low,10
+Transformer blast in area,Electricity,high,1
+Dustbin broken,Sanitation,low,8
+Sewage overflow,Sanitation,medium,4
+Sewage overflow,Sanitation,medium,3
+Huge pothole causing accidents,Road Maintenance,high,1
+Unclean public toilet,Sanitation,low,7
+Garbage not collected,Sanitation,low,6
+Road damaged after rain,Road Maintenance,medium,3
+Sewage overflow,Sanitation,medium,4
+Drain overflow issue,Water Supply,medium,3
+Meter not working,Electricity,low,5
+Broken water valve,Water Supply,low,8
+Cracked pavement,Road Maintenance,low,10
+Garbage not collected,Sanitation,low,5
+Unclean public toilet,Sanitation,low,7
+Meter not working,Electricity,low,7
+Cracked pavement,Road Maintenance,low,10
+Dead animal on road,Sanitation,low,10
+Meter not working,Electricity,low,6
+Huge pothole causing accidents,Road Maintenance,high,1
+Huge pothole causing accidents,Road Maintenance,high,2
+Dustbin broken,Sanitation,low,7
+Cracked pavement,Road Maintenance,low,6
+Low water pressure,Water Supply,low,9
+Meter not working,Electricity,low,10
+Dustbin broken,Sanitation,low,9
+Unclean public toilet,Sanitation,low,5
+Dead animal on road,Sanitation,low,6
+Transformer blast in area,Electricity,high,1
+Meter not working,Electricity,low,9
+Dead animal on road,Sanitation,low,10
+Water leakage in pipeline,Water Supply,medium,5
+Electric pole sparking,Electricity,low,5
+Transformer blast in area,Electricity,high,1
+No water supply since 2 days,Water Supply,low,8
+Meter not working,Electricity,low,10
+Water leakage in pipeline,Water Supply,medium,3
+Power outage since morning,Electricity,medium,4
+Cracked pavement,Road Maintenance,low,8
+Road damaged after rain,Road Maintenance,medium,3
+Electric pole sparking,Electricity,low,6
+No water supply since 2 days,Water Supply,low,9
+Low water pressure,Water Supply,low,6
+Huge pothole causing accidents,Road Maintenance,high,1
+Electric pole sparking,Electricity,low,6
+Dead animal on road,Sanitation,low,8
+Street light not working,Road Maintenance,low,8
+Cracked pavement,Road Maintenance,low,7
+Electric pole sparking,Electricity,low,6
+Garbage not collected,Sanitation,low,7
+Huge pothole causing accidents,Road Maintenance,high,2
+Power outage since morning,Electricity,medium,4
+Sewage overflow,Sanitation,medium,3
+Transformer blast in area,Electricity,high,1
+Dustbin broken,Sanitation,low,10
+Meter not working,Electricity,low,5
+Sewage overflow,Sanitation,medium,4
+Dead animal on road,Sanitation,low,5
+Garbage not collected,Sanitation,low,7
+Dustbin broken,Sanitation,low,6
+Huge pothole causing accidents,Road Maintenance,high,1
+Transformer blast in area,Electricity,high,2
+Broken water valve,Water Supply,low,5
+Electric pole sparking,Electricity,low,9
+Street light not working,Road Maintenance,low,10
+Drain overflow issue,Water Supply,medium,4
+Dead animal on road,Sanitation,low,9
+Street light not working,Road Maintenance,low,8
+Power outage since morning,Electricity,medium,4
+Transformer blast in area,Electricity,high,1
+Dead animal on road,Sanitation,low,6
+Sewage overflow,Sanitation,medium,4
+Dustbin broken,Sanitation,low,7
+Dustbin broken,Sanitation,low,9
+Electric pole sparking,Electricity,low,7
+Low water pressure,Water Supply,low,9
+Cracked pavement,Road Maintenance,low,5
+Huge pothole causing accidents,Road Maintenance,high,2
+Unclean public toilet,Sanitation,low,7
+Broken speed breaker,Road Maintenance,low,7
+Meter not working,Electricity,low,8
+Broken speed breaker,Road Maintenance,low,5
+Transformer blast in area,Electricity,high,2
+Garbage not collected,Sanitation,low,8
+Drain overflow issue,Water Supply,medium,3
+Meter not working,Electricity,low,10
+No water supply since 2 days,Water Supply,low,8
+Drain overflow issue,Water Supply,medium,4
+Meter not working,Electricity,low,7
+Street light not working,Road Maintenance,low,9
+Low water pressure,Water Supply,low,6
+Dustbin broken,Sanitation,low,5
+Street light not working,Road Maintenance,low,8
+Water leakage in pipeline,Water Supply,medium,4
+Low water pressure,Water Supply,low,7
+Frequent voltage fluctuation,Electricity,low,7
+Huge pothole causing accidents,Road Maintenance,high,1
+Sewage overflow,Sanitation,medium,3
+Power outage since morning,Electricity,medium,5
+Huge pothole causing accidents,Road Maintenance,high,2
+Garbage not collected,Sanitation,low,10
+Cracked pavement,Road Maintenance,low,10
+No water supply since 2 days,Water Supply,low,6
+Meter not working,Electricity,low,10
+Garbage not collected,Sanitation,low,9
+Power outage since morning,Electricity,medium,3
+Meter not working,Electricity,low,8
+No water supply since 2 days,Water Supply,low,6
+Frequent voltage fluctuation,Electricity,low,5
+Drain overflow issue,Water Supply,medium,5
+Electric pole sparking,Electricity,low,10
+Road damaged after rain,Road Maintenance,medium,5
+Road damaged after rain,Road Maintenance,medium,4
+Broken speed breaker,Road Maintenance,low,5
+Cracked pavement,Road Maintenance,low,9
+No water supply since 2 days,Water Supply,low,5
+Sewage overflow,Sanitation,medium,4
+Dustbin broken,Sanitation,low,6
+Street light not working,Road Maintenance,low,7
+Huge pothole causing accidents,Road Maintenance,high,1
+Dustbin broken,Sanitation,low,8
+Huge pothole causing accidents,Road Maintenance,high,1
+Meter not working,Electricity,low,7
+Broken speed breaker,Road Maintenance,low,9
+No water supply since 2 days,Water Supply,low,6
+Broken speed breaker,Road Maintenance,low,9
+Road damaged after rain,Road Maintenance,medium,4
+Broken water valve,Water Supply,low,7
+Drain overflow issue,Water Supply,medium,4
+Broken water valve,Water Supply,low,8
+Dustbin broken,Sanitation,low,5
+Electric pole sparking,Electricity,low,7
+Drain overflow issue,Water Supply,medium,4
+Unclean public toilet,Sanitation,low,8
+Transformer blast in area,Electricity,high,2
+No water supply since 2 days,Water Supply,low,8
+Road damaged after rain,Road Maintenance,medium,4
+Road damaged after rain,Road Maintenance,medium,4
+Water leakage in pipeline,Water Supply,medium,3
+Drain overflow issue,Water Supply,medium,3
+Huge pothole causing accidents,Road Maintenance,high,1
+Broken water valve,Water Supply,low,10
+Garbage not collected,Sanitation,low,8
+Electric pole sparking,Electricity,low,6
+Garbage not collected,Sanitation,low,5
+Dead animal on road,Sanitation,low,5
+Dustbin broken,Sanitation,low,9
+Low water pressure,Water Supply,low,6
+Dead animal on road,Sanitation,low,8
+Power outage since morning,Electricity,medium,5
+Broken water valve,Water Supply,low,7
+Street light not working,Road Maintenance,low,6
+Garbage not collected,Sanitation,low,9
+No water supply since 2 days,Water Supply,low,9
+Sewage overflow,Sanitation,medium,5
+Electric pole sparking,Electricity,low,5
+Transformer blast in area,Electricity,high,1
+Dead animal on road,Sanitation,low,10
+Dustbin broken,Sanitation,low,10
+Drain overflow issue,Water Supply,medium,4
+Electric pole sparking,Electricity,low,7
+Drain overflow issue,Water Supply,medium,5
+Garbage not collected,Sanitation,low,8
+No water supply since 2 days,Water Supply,low,9
+Sewage overflow,Sanitation,medium,3
+Electric pole sparking,Electricity,low,6
+Unclean public toilet,Sanitation,low,7
+Frequent voltage fluctuation,Electricity,low,5
+Dustbin broken,Sanitation,low,7
+Low water pressure,Water Supply,low,9
+Drain overflow issue,Water Supply,medium,3
+Sewage overflow,Sanitation,medium,4
+Frequent voltage fluctuation,Electricity,low,8
+Unclean public toilet,Sanitation,low,10
+Drain overflow issue,Water Supply,medium,5
+Drain overflow issue,Water Supply,medium,3
+Power outage since morning,Electricity,medium,4
+Sewage overflow,Sanitation,medium,3
+Cracked pavement,Road Maintenance,low,10
+Broken water valve,Water Supply,low,7
+Road damaged after rain,Road Maintenance,medium,5
+Garbage not collected,Sanitation,low,6
+Broken water valve,Water Supply,low,8
+Dead animal on road,Sanitation,low,8
+No water supply since 2 days,Water Supply,low,10
+Meter not working,Electricity,low,7
+Dustbin broken,Sanitation,low,10
+Unclean public toilet,Sanitation,low,7
+Broken speed breaker,Road Maintenance,low,9
+Transformer blast in area,Electricity,high,1
+Water leakage in pipeline,Water Supply,medium,3
+Dead animal on road,Sanitation,low,9
+Broken speed breaker,Road Maintenance,low,5
+Meter not working,Electricity,low,6
+Meter not working,Electricity,low,5
+Huge pothole causing accidents,Road Maintenance,high,1
+Broken water valve,Water Supply,low,8
+Broken speed breaker,Road Maintenance,low,9
+Cracked pavement,Road Maintenance,low,10
+Unclean public toilet,Sanitation,low,9
+Water leakage in pipeline,Water Supply,medium,5
+Sewage overflow,Sanitation,medium,4
+No water supply since 2 days,Water Supply,low,7
+Sewage overflow,Sanitation,medium,4
+No water supply since 2 days,Water Supply,low,9
+Road damaged after rain,Road Maintenance,medium,3
+Power outage since morning,Electricity,medium,3
+Meter not working,Electricity,low,10
+Broken water valve,Water Supply,low,8
+Garbage not collected,Sanitation,low,7
+Huge pothole causing accidents,Road Maintenance,high,2
+Street light not working,Road Maintenance,low,6
+Garbage not collected,Sanitation,low,5
+Drain overflow issue,Water Supply,medium,5
+Sewage overflow,Sanitation,medium,5
+Drain overflow issue,Water Supply,medium,5
+Broken water valve,Water Supply,low,8
+Dead animal on road,Sanitation,low,9
+Dead animal on road,Sanitation,low,10
+Transformer blast in area,Electricity,high,1
+Cracked pavement,Road Maintenance,low,8
+Low water pressure,Water Supply,low,10
+Garbage not collected,Sanitation,low,10
+Sewage overflow,Sanitation,medium,3
+Water leakage in pipeline,Water Supply,medium,5
+Low water pressure,Water Supply,low,7
+Street light not working,Road Maintenance,low,10
+Unclean public toilet,Sanitation,low,6
+Street light not working,Road Maintenance,low,10
+Electric pole sparking,Electricity,low,9
+Broken speed breaker,Road Maintenance,low,7
+Transformer blast in area,Electricity,high,2
+Broken water valve,Water Supply,low,5
+Broken water valve,Water Supply,low,5
+Dustbin broken,Sanitation,low,6
+Huge pothole causing accidents,Road Maintenance,high,1
+Electric pole sparking,Electricity,low,9
+Cracked pavement,Road Maintenance,low,5
+Unclean public toilet,Sanitation,low,9
+Water leakage in pipeline,Water Supply,medium,5
+Frequent voltage fluctuation,Electricity,low,7
+Transformer blast in area,Electricity,high,2
+Power outage since morning,Electricity,medium,4
+Unclean public toilet,Sanitation,low,9
+Huge pothole causing accidents,Road Maintenance,high,2
+Drain overflow issue,Water Supply,medium,4
+Huge pothole causing accidents,Road Maintenance,high,1
+Drain overflow issue,Water Supply,medium,5
+Broken water valve,Water Supply,low,9
+Street light not working,Road Maintenance,low,9
+Broken speed breaker,Road Maintenance,low,8
+Power outage since morning,Electricity,medium,4
+Dead animal on road,Sanitation,low,6
+Cracked pavement,Road Maintenance,low,8
+Frequent voltage fluctuation,Electricity,low,8
+Electric pole sparking,Electricity,low,6
+Frequent voltage fluctuation,Electricity,low,6
+Road damaged after rain,Road Maintenance,medium,4
+Frequent voltage fluctuation,Electricity,low,10
+Frequent voltage fluctuation,Electricity,low,8
+Drain overflow issue,Water Supply,medium,4
+Low water pressure,Water Supply,low,7
+Electric pole sparking,Electricity,low,8
+Road damaged after rain,Road Maintenance,medium,4
+Garbage not collected,Sanitation,low,9
+Broken water valve,Water Supply,low,5
+Dustbin broken,Sanitation,low,5
+Street light not working,Road Maintenance,low,9
+Road damaged after rain,Road Maintenance,medium,3
+Transformer blast in area,Electricity,high,2
+Water leakage in pipeline,Water Supply,medium,4
+Dustbin broken,Sanitation,low,10
+Electric pole sparking,Electricity,low,5
+Power outage since morning,Electricity,medium,5
+Unclean public toilet,Sanitation,low,9
+Dustbin broken,Sanitation,low,9
+Drain overflow issue,Water Supply,medium,3
+Garbage not collected,Sanitation,low,9
+Electric pole sparking,Electricity,low,9
+Power outage since morning,Electricity,medium,4
+Unclean public toilet,Sanitation,low,9
+Sewage overflow,Sanitation,medium,5
+Drain overflow issue,Water Supply,medium,5
+Broken water valve,Water Supply,low,8
+Street light not working,Road Maintenance,low,10
+Street light not working,Road Maintenance,low,5
+Drain overflow issue,Water Supply,medium,5
+Dustbin broken,Sanitation,low,7
+Dustbin broken,Sanitation,low,7
+Dustbin broken,Sanitation,low,9
+Electric pole sparking,Electricity,low,9
+Unclean public toilet,Sanitation,low,5
+Broken speed breaker,Road Maintenance,low,7
+Road damaged after rain,Road Maintenance,medium,4
+Dead animal on road,Sanitation,low,5
+No water supply since 2 days,Water Supply,low,5
+Transformer blast in area,Electricity,high,1
+Sewage overflow,Sanitation,medium,3
+Low water pressure,Water Supply,low,10
+Street light not working,Road Maintenance,low,5
+Sewage overflow,Sanitation,medium,3
+Dead animal on road,Sanitation,low,8
+Huge pothole causing accidents,Road Maintenance,high,1
+Frequent voltage fluctuation,Electricity,low,7
+Broken water valve,Water Supply,low,7
+Low water pressure,Water Supply,low,9
+Power outage since morning,Electricity,medium,4
+Cracked pavement,Road Maintenance,low,10
+Dustbin broken,Sanitation,low,10
+Road damaged after rain,Road Maintenance,medium,4
+Cracked pavement,Road Maintenance,low,7
+Sewage overflow,Sanitation,medium,3
+Meter not working,Electricity,low,10
+Road damaged after rain,Road Maintenance,medium,3
+Transformer blast in area,Electricity,high,1
+Meter not working,Electricity,low,7
+Transformer blast in area,Electricity,high,2
+Transformer blast in area,Electricity,high,2
+No water supply since 2 days,Water Supply,low,8
+Low water pressure,Water Supply,low,5
+Broken speed breaker,Road Maintenance,low,8
+Electric pole sparking,Electricity,low,6
+No water supply since 2 days,Water Supply,low,5
+Dead animal on road,Sanitation,low,6
+Broken water valve,Water Supply,low,8
+Drain overflow issue,Water Supply,medium,3
+Drain overflow issue,Water Supply,medium,4
+Meter not working,Electricity,low,10
+Dustbin broken,Sanitation,low,5
+Huge pothole causing accidents,Road Maintenance,high,2
+Low water pressure,Water Supply,low,7
+Dustbin broken,Sanitation,low,5
+Garbage not collected,Sanitation,low,10
+Garbage not collected,Sanitation,low,6
+Huge pothole causing accidents,Road Maintenance,high,2
+Cracked pavement,Road Maintenance,low,5
+Dead animal on road,Sanitation,low,9
+Cracked pavement,Road Maintenance,low,9
+Road damaged after rain,Road Maintenance,medium,3
+Sewage overflow,Sanitation,medium,3
+Meter not working,Electricity,low,7
+No water supply since 2 days,Water Supply,low,8
+Meter not working,Electricity,low,7
+Meter not working,Electricity,low,7
+Water leakage in pipeline,Water Supply,medium,5
+Drain overflow issue,Water Supply,medium,5
+Water leakage in pipeline,Water Supply,medium,3
+Electric pole sparking,Electricity,low,7
+No water supply since 2 days,Water Supply,low,6
+No water supply since 2 days,Water Supply,low,7
+Garbage not collected,Sanitation,low,9
+Garbage not collected,Sanitation,low,5
+Sewage overflow,Sanitation,medium,5
+Transformer blast in area,Electricity,high,1
+Road damaged after rain,Road Maintenance,medium,3
+Street light not working,Road Maintenance,low,5
+Water leakage in pipeline,Water Supply,medium,4
+Dead animal on road,Sanitation,low,8
+Power outage since morning,Electricity,medium,3
+Broken speed breaker,Road Maintenance,low,10
+Huge pothole causing accidents,Road Maintenance,high,2
+Drain overflow issue,Water Supply,medium,5
+Sewage overflow,Sanitation,medium,5
+Garbage not collected,Sanitation,low,7
+Drain overflow issue,Water Supply,medium,5
+Sewage overflow,Sanitation,medium,4
+Sewage overflow,Sanitation,medium,5
+Broken water valve,Water Supply,low,8
+Broken speed breaker,Road Maintenance,low,5
+Unclean public toilet,Sanitation,low,10
+Broken water valve,Water Supply,low,9
+Transformer blast in area,Electricity,high,2
+No water supply since 2 days,Water Supply,low,6
+Transformer blast in area,Electricity,high,2
+Sewage overflow,Sanitation,medium,4
+No water supply since 2 days,Water Supply,low,10
+Dustbin broken,Sanitation,low,6
+Road damaged after rain,Road Maintenance,medium,4
+Frequent voltage fluctuation,Electricity,low,5
+Road damaged after rain,Road Maintenance,medium,5
+Garbage not collected,Sanitation,low,8
+Cracked pavement,Road Maintenance,low,8
+Electric pole sparking,Electricity,low,6
+Electric pole sparking,Electricity,low,10
+Broken speed breaker,Road Maintenance,low,8
+Cracked pavement,Road Maintenance,low,7
+Broken speed breaker,Road Maintenance,low,8
+Cracked pavement,Road Maintenance,low,6
+Low water pressure,Water Supply,low,6
+Dustbin broken,Sanitation,low,9
+No water supply since 2 days,Water Supply,low,9
+Broken water valve,Water Supply,low,10
+Dead animal on road,Sanitation,low,9
+Low water pressure,Water Supply,low,8
+Meter not working,Electricity,low,9
+Dead animal on road,Sanitation,low,5
+Electric pole sparking,Electricity,low,9
+Sewage overflow,Sanitation,medium,4
+Water leakage in pipeline,Water Supply,medium,3
+Dustbin broken,Sanitation,low,6
+Road damaged after rain,Road Maintenance,medium,4
+Dead animal on road,Sanitation,low,8
+Broken speed breaker,Road Maintenance,low,10
+Street light not working,Road Maintenance,low,10
+Power outage since morning,Electricity,medium,5
+Street light not working,Road Maintenance,low,10
+Unclean public toilet,Sanitation,low,5
+Garbage not collected,Sanitation,low,7
+Drain overflow issue,Water Supply,medium,5
+Cracked pavement,Road Maintenance,low,5
+Low water pressure,Water Supply,low,6
+No water supply since 2 days,Water Supply,low,6
+Dead animal on road,Sanitation,low,8
+Drain overflow issue,Water Supply,medium,3
+Broken water valve,Water Supply,low,6
+Broken speed breaker,Road Maintenance,low,9
+Broken speed breaker,Road Maintenance,low,10
+Low water pressure,Water Supply,low,10
+Meter not working,Electricity,low,8
+Low water pressure,Water Supply,low,5
+Road damaged after rain,Road Maintenance,medium,4
+No water supply since 2 days,Water Supply,low,8
+Meter not working,Electricity,low,6
+Unclean public toilet,Sanitation,low,7
+Water leakage in pipeline,Water Supply,medium,3
+Water leakage in pipeline,Water Supply,medium,3
+Broken water valve,Water Supply,low,7
+Power outage since morning,Electricity,medium,5
+No water supply since 2 days,Water Supply,low,5
+Street light not working,Road Maintenance,low,7
+Street light not working,Road Maintenance,low,6
+Transformer blast in area,Electricity,high,1
+Dustbin broken,Sanitation,low,8
+Low water pressure,Water Supply,low,7
+Dead animal on road,Sanitation,low,7
+Sewage overflow,Sanitation,medium,4
+Cracked pavement,Road Maintenance,low,6
+Sewage overflow,Sanitation,medium,4
+Transformer blast in area,Electricity,high,2
+Frequent voltage fluctuation,Electricity,low,8
+Water leakage in pipeline,Water Supply,medium,4
+Drain overflow issue,Water Supply,medium,3
+Garbage not collected,Sanitation,low,8
+Road damaged after rain,Road Maintenance,medium,4
+Road damaged after rain,Road Maintenance,medium,5
+Frequent voltage fluctuation,Electricity,low,6
+Transformer blast in area,Electricity,high,2
+Low water pressure,Water Supply,low,6
+Garbage not collected,Sanitation,low,9
+Broken water valve,Water Supply,low,8
+Garbage not collected,Sanitation,low,9
+Garbage not collected,Sanitation,low,10
+Low water pressure,Water Supply,low,8
+Street light not working,Road Maintenance,low,8
+Huge pothole causing accidents,Road Maintenance,high,1
+Broken speed breaker,Road Maintenance,low,8
+Garbage not collected,Sanitation,low,6
+Sewage overflow,Sanitation,medium,4
+Frequent voltage fluctuation,Electricity,low,10
+Sewage overflow,Sanitation,medium,5
+Street light not working,Road Maintenance,low,10
+Electric pole sparking,Electricity,low,9
+Transformer blast in area,Electricity,high,1
+Electric pole sparking,Electricity,low,8
+Dead animal on road,Sanitation,low,10
+Broken speed breaker,Road Maintenance,low,9
+Road damaged after rain,Road Maintenance,medium,4
+Electric pole sparking,Electricity,low,8
+No water supply since 2 days,Water Supply,low,7
+No water supply since 2 days,Water Supply,low,5
+Dustbin broken,Sanitation,low,7
+Electric pole sparking,Electricity,low,10
+Transformer blast in area,Electricity,high,2
+Meter not working,Electricity,low,6
+Street light not working,Road Maintenance,low,8
+Frequent voltage fluctuation,Electricity,low,6
+Frequent voltage fluctuation,Electricity,low,10
+Street light not working,Road Maintenance,low,5
+Sewage overflow,Sanitation,medium,4
+Low water pressure,Water Supply,low,6
+Broken speed breaker,Road Maintenance,low,9
+Street light not working,Road Maintenance,low,6
+Power outage since morning,Electricity,medium,3
+Transformer blast in area,Electricity,high,1
+Street light not working,Road Maintenance,low,8
+Street light not working,Road Maintenance,low,10
+Broken water valve,Water Supply,low,6
+Broken water valve,Water Supply,low,8
+Low water pressure,Water Supply,low,8
+Unclean public toilet,Sanitation,low,8
+Frequent voltage fluctuation,Electricity,low,5
+Cracked pavement,Road Maintenance,low,7
+Electric pole sparking,Electricity,low,6
+Road damaged after rain,Road Maintenance,medium,5
+Dustbin broken,Sanitation,low,6
+Broken speed breaker,Road Maintenance,low,6
+No water supply since 2 days,Water Supply,low,10
+Frequent voltage fluctuation,Electricity,low,10
+Unclean public toilet,Sanitation,low,10
+Huge pothole causing accidents,Road Maintenance,high,2
+Frequent voltage fluctuation,Electricity,low,5
+Transformer blast in area,Electricity,high,2
+Huge pothole causing accidents,Road Maintenance,high,2
+Frequent voltage fluctuation,Electricity,low,7
+Electric pole sparking,Electricity,low,5
+Huge pothole causing accidents,Road Maintenance,high,1
+Low water pressure,Water Supply,low,10
+Huge pothole causing accidents,Road Maintenance,high,1
+Broken speed breaker,Road Maintenance,low,9
+Street light not working,Road Maintenance,low,5
+Broken speed breaker,Road Maintenance,low,10
+Water leakage in pipeline,Water Supply,medium,4
+Road damaged after rain,Road Maintenance,medium,3
+Electric pole sparking,Electricity,low,9
+Water leakage in pipeline,Water Supply,medium,5
+Dustbin broken,Sanitation,low,6
+Frequent voltage fluctuation,Electricity,low,7
+No water supply since 2 days,Water Supply,low,5
+Electric pole sparking,Electricity,low,9
+Huge pothole causing accidents,Road Maintenance,high,2
+Dead animal on road,Sanitation,low,6
+Water leakage in pipeline,Water Supply,medium,3
+Frequent voltage fluctuation,Electricity,low,8
+Broken water valve,Water Supply,low,7
+Drain overflow issue,Water Supply,medium,3
+Broken speed breaker,Road Maintenance,low,9
+Cracked pavement,Road Maintenance,low,8
+Street light not working,Road Maintenance,low,10
+Broken water valve,Water Supply,low,6
+Sewage overflow,Sanitation,medium,5
+Drain overflow issue,Water Supply,medium,4
+No water supply since 2 days,Water Supply,low,5
+Electric pole sparking,Electricity,low,9
+Water leakage in pipeline,Water Supply,medium,5
+Broken speed breaker,Road Maintenance,low,9
+Broken speed breaker,Road Maintenance,low,8
+Huge pothole causing accidents,Road Maintenance,high,2
+Water leakage in pipeline,Water Supply,medium,3
+Street light not working,Road Maintenance,low,5
+Meter not working,Electricity,low,10
+Electric pole sparking,Electricity,low,6
+Transformer blast in area,Electricity,high,2
+Street light not working,Road Maintenance,low,5
+Broken water valve,Water Supply,low,5
+Transformer blast in area,Electricity,high,2
+Dustbin broken,Sanitation,low,9
+Power outage since morning,Electricity,medium,5
+Broken water valve,Water Supply,low,10
+No water supply since 2 days,Water Supply,low,5
+Broken speed breaker,Road Maintenance,low,5
+Broken speed breaker,Road Maintenance,low,7
+Meter not working,Electricity,low,10
+Electric pole sparking,Electricity,low,8
+Dustbin broken,Sanitation,low,6
+Broken speed breaker,Road Maintenance,low,10
+Sewage overflow,Sanitation,medium,3
+Drain overflow issue,Water Supply,medium,4
+Garbage not collected,Sanitation,low,10
+Electric pole sparking,Electricity,low,6
+Unclean public toilet,Sanitation,low,9
+Dead animal on road,Sanitation,low,8
+No water supply since 2 days,Water Supply,low,10
+Electric pole sparking,Electricity,low,7
+Frequent voltage fluctuation,Electricity,low,6
+Garbage not collected,Sanitation,low,7
+Street light not working,Road Maintenance,low,6
+Broken speed breaker,Road Maintenance,low,7
+Transformer blast in area,Electricity,high,1
+No water supply since 2 days,Water Supply,low,6
+Broken speed breaker,Road Maintenance,low,5
+Unclean public toilet,Sanitation,low,6
+Low water pressure,Water Supply,low,5
+Cracked pavement,Road Maintenance,low,10
+Water leakage in pipeline,Water Supply,medium,4
+No water supply since 2 days,Water Supply,low,10
+Power outage since morning,Electricity,medium,3
+Drain overflow issue,Water Supply,medium,3
+Broken water valve,Water Supply,low,8
+Broken speed breaker,Road Maintenance,low,6
+Broken speed breaker,Road Maintenance,low,7
+Dead animal on road,Sanitation,low,10
+Power outage since morning,Electricity,medium,5
+Street light not working,Road Maintenance,low,5
+Meter not working,Electricity,low,9
+Road damaged after rain,Road Maintenance,medium,4
+Meter not working,Electricity,low,7
+Water leakage in pipeline,Water Supply,medium,3
+Garbage not collected,Sanitation,low,10
+Frequent voltage fluctuation,Electricity,low,9
+Unclean public toilet,Sanitation,low,9
+Meter not working,Electricity,low,5
+Unclean public toilet,Sanitation,low,5
+Dustbin broken,Sanitation,low,7
+Unclean public toilet,Sanitation,low,6
+Road damaged after rain,Road Maintenance,medium,4
+Frequent voltage fluctuation,Electricity,low,10
+Sewage overflow,Sanitation,medium,5
+Broken speed breaker,Road Maintenance,low,7
+Broken water valve,Water Supply,low,10
+Garbage not collected,Sanitation,low,8
+Frequent voltage fluctuation,Electricity,low,9
+Broken speed breaker,Road Maintenance,low,10
+Sewage overflow,Sanitation,medium,3
+Dead animal on road,Sanitation,low,7
+Cracked pavement,Road Maintenance,low,8
+Huge pothole causing accidents,Road Maintenance,high,2
+Electric pole sparking,Electricity,low,6
+Drain overflow issue,Water Supply,medium,5
+Huge pothole causing accidents,Road Maintenance,high,1
+Garbage not collected,Sanitation,low,8
+Cracked pavement,Road Maintenance,low,7
+Unclean public toilet,Sanitation,low,10
+Electric pole sparking,Electricity,low,8
+Unclean public toilet,Sanitation,low,7
+Water leakage in pipeline,Water Supply,medium,4
+Electric pole sparking,Electricity,low,8
+Unclean public toilet,Sanitation,low,5
+Street light not working,Road Maintenance,low,6
+Garbage not collected,Sanitation,low,8
+No water supply since 2 days,Water Supply,low,6
+Drain overflow issue,Water Supply,medium,3
+Dead animal on road,Sanitation,low,10
+Meter not working,Electricity,low,7
+Broken speed breaker,Road Maintenance,low,10
+Low water pressure,Water Supply,low,5
+Dead animal on road,Sanitation,low,5
+Water leakage in pipeline,Water Supply,medium,3
+No water supply since 2 days,Water Supply,low,10
+Water leakage in pipeline,Water Supply,medium,5
+Huge pothole causing accidents,Road Maintenance,high,2
+Broken speed breaker,Road Maintenance,low,6
+Huge pothole causing accidents,Road Maintenance,high,2
+Road damaged after rain,Road Maintenance,medium,5
+Transformer blast in area,Electricity,high,1
+Broken speed breaker,Road Maintenance,low,9
+Street light not working,Road Maintenance,low,10
+Electric pole sparking,Electricity,low,10
+Power outage since morning,Electricity,medium,3
+Garbage not collected,Sanitation,low,8
+No water supply since 2 days,Water Supply,low,6
+Low water pressure,Water Supply,low,9
+Broken water valve,Water Supply,low,8
+Broken water valve,Water Supply,low,5
+Dead animal on road,Sanitation,low,6
+Huge pothole causing accidents,Road Maintenance,high,1
+Street light not working,Road Maintenance,low,5
+Road damaged after rain,Road Maintenance,medium,4
+Unclean public toilet,Sanitation,low,6
+No water supply since 2 days,Water Supply,low,8
+Drain overflow issue,Water Supply,medium,3
+Transformer blast in area,Electricity,high,1
+Dead animal on road,Sanitation,low,5
+Sewage overflow,Sanitation,medium,4
+Dead animal on road,Sanitation,low,8
+Dustbin broken,Sanitation,low,9
+Low water pressure,Water Supply,low,9
+Road damaged after rain,Road Maintenance,medium,5
+Electric pole sparking,Electricity,low,8
+Broken speed breaker,Road Maintenance,low,7
+Broken water valve,Water Supply,low,10
+Broken speed breaker,Road Maintenance,low,6
+Water leakage in pipeline,Water Supply,medium,4
+Frequent voltage fluctuation,Electricity,low,9
+Drain overflow issue,Water Supply,medium,4
+Drain overflow issue,Water Supply,medium,4
+Huge pothole causing accidents,Road Maintenance,high,1
+Drain overflow issue,Water Supply,medium,3
+Road damaged after rain,Road Maintenance,medium,5
+Garbage not collected,Sanitation,low,7
+No water supply since 2 days,Water Supply,low,9
+Transformer blast in area,Electricity,high,2
+Unclean public toilet,Sanitation,low,10
+Garbage not collected,Sanitation,low,7
+Sewage overflow,Sanitation,medium,4
+Electric pole sparking,Electricity,low,5
+Water leakage in pipeline,Water Supply,medium,4
+Frequent voltage fluctuation,Electricity,low,6
+Huge pothole causing accidents,Road Maintenance,high,2
+Drain overflow issue,Water Supply,medium,5
+Sewage overflow,Sanitation,medium,4
+Frequent voltage fluctuation,Electricity,low,7
+Garbage not collected,Sanitation,low,10
+Drain overflow issue,Water Supply,medium,3
+Power outage since morning,Electricity,medium,4
+Dustbin broken,Sanitation,low,8
+Broken speed breaker,Road Maintenance,low,7
+Drain overflow issue,Water Supply,medium,5
+Drain overflow issue,Water Supply,medium,4
+No water supply since 2 days,Water Supply,low,6
+No water supply since 2 days,Water Supply,low,7
+Dustbin broken,Sanitation,low,7
+Drain overflow issue,Water Supply,medium,4
+Garbage not collected,Sanitation,low,6
+Dustbin broken,Sanitation,low,7
+Broken speed breaker,Road Maintenance,low,6
+Unclean public toilet,Sanitation,low,5
+Street light not working,Road Maintenance,low,10
+Dead animal on road,Sanitation,low,10
+Broken water valve,Water Supply,low,6
+Cracked pavement,Road Maintenance,low,9
+Garbage not collected,Sanitation,low,8
+Dustbin broken,Sanitation,low,5
+Cracked pavement,Road Maintenance,low,6
+Garbage not collected,Sanitation,low,9
+Broken water valve,Water Supply,low,5
+Street light not working,Road Maintenance,low,10
+Broken speed breaker,Road Maintenance,low,8
+Unclean public toilet,Sanitation,low,5
+Street light not working,Road Maintenance,low,10
+Cracked pavement,Road Maintenance,low,9
+Garbage not collected,Sanitation,low,7
+Road damaged after rain,Road Maintenance,medium,3
+Low water pressure,Water Supply,low,9
+Cracked pavement,Road Maintenance,low,5
+Broken speed breaker,Road Maintenance,low,8
+Sewage overflow,Sanitation,medium,3
+Electric pole sparking,Electricity,low,5
+Power outage since morning,Electricity,medium,4
+Broken speed breaker,Road Maintenance,low,7
+Power outage since morning,Electricity,medium,3
+Dustbin broken,Sanitation,low,7
+Frequent voltage fluctuation,Electricity,low,6
+Transformer blast in area,Electricity,high,1
+Street light not working,Road Maintenance,low,10
+Broken speed breaker,Road Maintenance,low,9
+Transformer blast in area,Electricity,high,1
+Garbage not collected,Sanitation,low,6
+Road damaged after rain,Road Maintenance,medium,5
+Garbage not collected,Sanitation,low,9
+Cracked pavement,Road Maintenance,low,5
+Meter not working,Electricity,low,7
+No water supply since 2 days,Water Supply,low,9
+Power outage since morning,Electricity,medium,4
+Low water pressure,Water Supply,low,6
+Unclean public toilet,Sanitation,low,7
+Cracked pavement,Road Maintenance,low,6
+Sewage overflow,Sanitation,medium,3
+Unclean public toilet,Sanitation,low,6
+Unclean public toilet,Sanitation,low,5
+Dustbin broken,Sanitation,low,7
+Sewage overflow,Sanitation,medium,4
+Road damaged after rain,Road Maintenance,medium,4
+Drain overflow issue,Water Supply,medium,4
+Road damaged after rain,Road Maintenance,medium,4
+Broken speed breaker,Road Maintenance,low,9
+Dead animal on road,Sanitation,low,7
+Power outage since morning,Electricity,medium,4
+No water supply since 2 days,Water Supply,low,6
+Garbage not collected,Sanitation,low,6
+Street light not working,Road Maintenance,low,8
+Low water pressure,Water Supply,low,5
+Sewage overflow,Sanitation,medium,5
+Meter not working,Electricity,low,10
+Electric pole sparking,Electricity,low,10
+Transformer blast in area,Electricity,high,2
+Dead animal on road,Sanitation,low,8
+Cracked pavement,Road Maintenance,low,8
+Cracked pavement,Road Maintenance,low,9
+Broken speed breaker,Road Maintenance,low,9
+Garbage not collected,Sanitation,low,9
+Dead animal on road,Sanitation,low,7
+Electric pole sparking,Electricity,low,5
+Broken speed breaker,Road Maintenance,low,10
+Road damaged after rain,Road Maintenance,medium,5
+Broken speed breaker,Road Maintenance,low,5
+Water leakage in pipeline,Water Supply,medium,3
+Drain overflow issue,Water Supply,medium,5
+Broken water valve,Water Supply,low,6
+Garbage not collected,Sanitation,low,10
+Dead animal on road,Sanitation,low,8
+No water supply since 2 days,Water Supply,low,7
+Low water pressure,Water Supply,low,5
+Cracked pavement,Road Maintenance,low,7
+Sewage overflow,Sanitation,medium,4
+Garbage not collected,Sanitation,low,7
+Water leakage in pipeline,Water Supply,medium,3
+Electric pole sparking,Electricity,low,9
+Sewage overflow,Sanitation,medium,4
+No water supply since 2 days,Water Supply,low,5
+Transformer blast in area,Electricity,high,2
+Frequent voltage fluctuation,Electricity,low,9
+Meter not working,Electricity,low,9
+Dead animal on road,Sanitation,low,8
+No water supply since 2 days,Water Supply,low,6
+Electric pole sparking,Electricity,low,5
+Power outage since morning,Electricity,medium,4
+Garbage not collected,Sanitation,low,7
+Huge pothole causing accidents,Road Maintenance,high,1
+Dustbin broken,Sanitation,low,9
+Garbage not collected,Sanitation,low,8
+Broken speed breaker,Road Maintenance,low,7
+Transformer blast in area,Electricity,high,2
+Dead animal on road,Sanitation,low,8
+Dustbin broken,Sanitation,low,6
+Drain overflow issue,Water Supply,medium,5
+Broken speed breaker,Road Maintenance,low,6
+Power outage since morning,Electricity,medium,3
+Street light not working,Road Maintenance,low,9
+Broken speed breaker,Road Maintenance,low,6
+Drain overflow issue,Water Supply,medium,5
+Drain overflow issue,Water Supply,medium,3
+Cracked pavement,Road Maintenance,low,8
+No water supply since 2 days,Water Supply,low,10
+Frequent voltage fluctuation,Electricity,low,7
+Low water pressure,Water Supply,low,10
+Road damaged after rain,Road Maintenance,medium,3
+Power outage since morning,Electricity,medium,4
+Electric pole sparking,Electricity,low,8
+Frequent voltage fluctuation,Electricity,low,10
+Drain overflow issue,Water Supply,medium,4
+Broken water valve,Water Supply,low,8
+Low water pressure,Water Supply,low,9
+Frequent voltage fluctuation,Electricity,low,5
+Dead animal on road,Sanitation,low,7
+Unclean public toilet,Sanitation,low,8
+Sewage overflow,Sanitation,medium,3
+Broken water valve,Water Supply,low,10
+Unclean public toilet,Sanitation,low,8
+Transformer blast in area,Electricity,high,1
+Cracked pavement,Road Maintenance,low,5
+Water leakage in pipeline,Water Supply,medium,4
+Road damaged after rain,Road Maintenance,medium,4
+Frequent voltage fluctuation,Electricity,low,10
+Low water pressure,Water Supply,low,5
+Unclean public toilet,Sanitation,low,6
+Dustbin broken,Sanitation,low,7
+Meter not working,Electricity,low,7
+Broken water valve,Water Supply,low,8
+Road damaged after rain,Road Maintenance,medium,5
+Huge pothole causing accidents,Road Maintenance,high,1
+Sewage overflow,Sanitation,medium,5
+Garbage not collected,Sanitation,low,10
+Cracked pavement,Road Maintenance,low,10
+Street light not working,Road Maintenance,low,7
+Low water pressure,Water Supply,low,7
+Broken speed breaker,Road Maintenance,low,9
+Drain overflow issue,Water Supply,medium,3
+Broken speed breaker,Road Maintenance,low,10
+Power outage since morning,Electricity,medium,3
+Sewage overflow,Sanitation,medium,5
+Broken water valve,Water Supply,low,9
+Garbage not collected,Sanitation,low,8
+Huge pothole causing accidents,Road Maintenance,high,1
+Drain overflow issue,Water Supply,medium,4
+No water supply since 2 days,Water Supply,low,9
+Low water pressure,Water Supply,low,10
+Drain overflow issue,Water Supply,medium,5
+Transformer blast in area,Electricity,high,1
+Drain overflow issue,Water Supply,medium,5
+Garbage not collected,Sanitation,low,8
+Garbage not collected,Sanitation,low,10
+Meter not working,Electricity,low,5
+Road damaged after rain,Road Maintenance,medium,5
+Power outage since morning,Electricity,medium,5
+Frequent voltage fluctuation,Electricity,low,8
+Street light not working,Road Maintenance,low,10
+Road damaged after rain,Road Maintenance,medium,3
+Dead animal on road,Sanitation,low,5
+Street light not working,Road Maintenance,low,6
+Road damaged after rain,Road Maintenance,medium,4
+Electric pole sparking,Electricity,low,10
+Transformer blast in area,Electricity,high,1
+Drain overflow issue,Water Supply,medium,4
+Dustbin broken,Sanitation,low,6
+Street light not working,Road Maintenance,low,8
+Frequent voltage fluctuation,Electricity,low,10
+Broken speed breaker,Road Maintenance,low,6
+Low water pressure,Water Supply,low,5
+Low water pressure,Water Supply,low,9
+Meter not working,Electricity,low,9
+Frequent voltage fluctuation,Electricity,low,7
+Road damaged after rain,Road Maintenance,medium,4
+No water supply since 2 days,Water Supply,low,7
+Electric pole sparking,Electricity,low,6
+Electric pole sparking,Electricity,low,9
+Road damaged after rain,Road Maintenance,medium,3
+Broken water valve,Water Supply,low,5
+Huge pothole causing accidents,Road Maintenance,high,2
+Dustbin broken,Sanitation,low,7
+Power outage since morning,Electricity,medium,3
+Frequent voltage fluctuation,Electricity,low,8
+Electric pole sparking,Electricity,low,7
+Unclean public toilet,Sanitation,low,7
+Huge pothole causing accidents,Road Maintenance,high,1
+Broken water valve,Water Supply,low,6
+Broken water valve,Water Supply,low,6
+Street light not working,Road Maintenance,low,7
+Street light not working,Road Maintenance,low,7
+Broken water valve,Water Supply,low,5
+Drain overflow issue,Water Supply,medium,3
+Street light not working,Road Maintenance,low,6
+Drain overflow issue,Water Supply,medium,4
+Broken speed breaker,Road Maintenance,low,5
+Drain overflow issue,Water Supply,medium,3
+Dead animal on road,Sanitation,low,9
+Unclean public toilet,Sanitation,low,8
+Drain overflow issue,Water Supply,medium,3
+Sewage overflow,Sanitation,medium,3
+Cracked pavement,Road Maintenance,low,6
+Dead animal on road,Sanitation,low,7
+Huge pothole causing accidents,Road Maintenance,high,2
+Street light not working,Road Maintenance,low,9
+Street light not working,Road Maintenance,low,9
+Broken water valve,Water Supply,low,8
+Transformer blast in area,Electricity,high,1
+Huge pothole causing accidents,Road Maintenance,high,2
+Water leakage in pipeline,Water Supply,medium,3
+Road damaged after rain,Road Maintenance,medium,5
+Broken speed breaker,Road Maintenance,low,9
+Street light not working,Road Maintenance,low,10
+Electric pole sparking,Electricity,low,5
+Transformer blast in area,Electricity,high,1
+No water supply since 2 days,Water Supply,low,8
+Meter not working,Electricity,low,9
+Unclean public toilet,Sanitation,low,6
+Broken water valve,Water Supply,low,6
+No water supply since 2 days,Water Supply,low,7
+Unclean public toilet,Sanitation,low,9
+Meter not working,Electricity,low,6
+Unclean public toilet,Sanitation,low,10
+Huge pothole causing accidents,Road Maintenance,high,1
+Electric pole sparking,Electricity,low,8
+Garbage not collected,Sanitation,low,7
+Frequent voltage fluctuation,Electricity,low,6
+Electric pole sparking,Electricity,low,9
+Dustbin broken,Sanitation,low,7
+Street light not working,Road Maintenance,low,9
+Power outage since morning,Electricity,medium,3
+Power outage since morning,Electricity,medium,4
+Electric pole sparking,Electricity,low,7
+Transformer blast in area,Electricity,high,2
+Cracked pavement,Road Maintenance,low,5
+No water supply since 2 days,Water Supply,low,5
+Water leakage in pipeline,Water Supply,medium,3
+Broken speed breaker,Road Maintenance,low,7
+No water supply since 2 days,Water Supply,low,8
+Power outage since morning,Electricity,medium,4
+Dustbin broken,Sanitation,low,10
+Garbage not collected,Sanitation,low,8
+Garbage not collected,Sanitation,low,8
+Dustbin broken,Sanitation,low,9
+Unclean public toilet,Sanitation,low,10
+Road damaged after rain,Road Maintenance,medium,5
+Water leakage in pipeline,Water Supply,medium,3
+Sewage overflow,Sanitation,medium,3
+Road damaged after rain,Road Maintenance,medium,3
+Water leakage in pipeline,Water Supply,medium,5
+Dustbin broken,Sanitation,low,7
+Transformer blast in area,Electricity,high,2
+Garbage not collected,Sanitation,low,10
+Low water pressure,Water Supply,low,6
+Drain overflow issue,Water Supply,medium,3
+No water supply since 2 days,Water Supply,low,9
+Low water pressure,Water Supply,low,6
+Electric pole sparking,Electricity,low,8
+Cracked pavement,Road Maintenance,low,6
+Huge pothole causing accidents,Road Maintenance,high,1
+Dead animal on road,Sanitation,low,5
+Meter not working,Electricity,low,8
+Garbage not collected,Sanitation,low,6
+Dustbin broken,Sanitation,low,7
+Water leakage in pipeline,Water Supply,medium,5
+Garbage not collected,Sanitation,low,8
+Water leakage in pipeline,Water Supply,medium,5
+Water leakage in pipeline,Water Supply,medium,3
+Power outage since morning,Electricity,medium,4
+Cracked pavement,Road Maintenance,low,8
+Frequent voltage fluctuation,Electricity,low,5
+Broken speed breaker,Road Maintenance,low,9
+Electric pole sparking,Electricity,low,8
+Low water pressure,Water Supply,low,8
+Unclean public toilet,Sanitation,low,8
+Unclean public toilet,Sanitation,low,8
+Low water pressure,Water Supply,low,5
+Road damaged after rain,Road Maintenance,medium,5
+Dead animal on road,Sanitation,low,10
+Dead animal on road,Sanitation,low,8
+Road damaged after rain,Road Maintenance,medium,5
+Power outage since morning,Electricity,medium,4
+Power outage since morning,Electricity,medium,4
+Meter not working,Electricity,low,10
+Water leakage in pipeline,Water Supply,medium,3
+Garbage not collected,Sanitation,low,7
+Power outage since morning,Electricity,medium,5
+Garbage not collected,Sanitation,low,9
+Power outage since morning,Electricity,medium,5
+Low water pressure,Water Supply,low,10
+Low water pressure,Water Supply,low,8
+Meter not working,Electricity,low,6
+No water supply since 2 days,Water Supply,low,6
+Water leakage in pipeline,Water Supply,medium,5
+Drain overflow issue,Water Supply,medium,5
+Water leakage in pipeline,Water Supply,medium,5
+Huge pothole causing accidents,Road Maintenance,high,2
+Dustbin broken,Sanitation,low,10
+Drain overflow issue,Water Supply,medium,3
+Meter not working,Electricity,low,10
+Garbage not collected,Sanitation,low,5
+Dead animal on road,Sanitation,low,9
+No water supply since 2 days,Water Supply,low,9
+Garbage not collected,Sanitation,low,5
+Dead animal on road,Sanitation,low,10
+Road damaged after rain,Road Maintenance,medium,5
+Street light not working,Road Maintenance,low,10
+Dead animal on road,Sanitation,low,5
+Power outage since morning,Electricity,medium,4
+Road damaged after rain,Road Maintenance,medium,3
+Low water pressure,Water Supply,low,8
+Water leakage in pipeline,Water Supply,medium,4
+Garbage not collected,Sanitation,low,8
+Unclean public toilet,Sanitation,low,7
+Broken water valve,Water Supply,low,8
+Frequent voltage fluctuation,Electricity,low,5
+Broken water valve,Water Supply,low,9
+Meter not working,Electricity,low,5
+Water leakage in pipeline,Water Supply,medium,3
+Electric pole sparking,Electricity,low,5
+Power outage since morning,Electricity,medium,5
+Huge pothole causing accidents,Road Maintenance,high,2
+Water leakage in pipeline,Water Supply,medium,4
+No water supply since 2 days,Water Supply,low,9
+Huge pothole causing accidents,Road Maintenance,high,1
+Broken speed breaker,Road Maintenance,low,9
+Broken water valve,Water Supply,low,7
+Dustbin broken,Sanitation,low,6
+Dustbin broken,Sanitation,low,7
+Electric pole sparking,Electricity,low,6
+Unclean public toilet,Sanitation,low,5
+Power outage since morning,Electricity,medium,4
+Low water pressure,Water Supply,low,9
+Power outage since morning,Electricity,medium,4
+No water supply since 2 days,Water Supply,low,8
+Sewage overflow,Sanitation,medium,3
+No water supply since 2 days,Water Supply,low,6
+Broken speed breaker,Road Maintenance,low,8
+Frequent voltage fluctuation,Electricity,low,9
+Broken speed breaker,Road Maintenance,low,9
+Water leakage in pipeline,Water Supply,medium,5
+Broken water valve,Water Supply,low,5
+Drain overflow issue,Water Supply,medium,4
+Broken speed breaker,Road Maintenance,low,9
+Road damaged after rain,Road Maintenance,medium,4
+Garbage not collected,Sanitation,low,6
+Meter not working,Electricity,low,8
+Low water pressure,Water Supply,low,10
+Water leakage in pipeline,Water Supply,medium,5
+Transformer blast in area,Electricity,high,2
+Water leakage in pipeline,Water Supply,medium,5
+Sewage overflow,Sanitation,medium,3
+Meter not working,Electricity,low,8
+Sewage overflow,Sanitation,medium,5
+Power outage since morning,Electricity,medium,5
+Cracked pavement,Road Maintenance,low,7
+Drain overflow issue,Water Supply,medium,3
+Sewage overflow,Sanitation,medium,4
+Huge pothole causing accidents,Road Maintenance,high,2
+Unclean public toilet,Sanitation,low,6
+Frequent voltage fluctuation,Electricity,low,5
+Water leakage in pipeline,Water Supply,medium,3
+Meter not working,Electricity,low,7
+Dustbin broken,Sanitation,low,5
+Broken water valve,Water Supply,low,9
+Dustbin broken,Sanitation,low,10
+No water supply since 2 days,Water Supply,low,6
+Meter not working,Electricity,low,5
+Drain overflow issue,Water Supply,medium,4
+Street light not working,Road Maintenance,low,6
+Huge pothole causing accidents,Road Maintenance,high,2
+No water supply since 2 days,Water Supply,low,7
+Broken speed breaker,Road Maintenance,low,8
+Garbage not collected,Sanitation,low,5
+Transformer blast in area,Electricity,high,1
+Transformer blast in area,Electricity,high,1
+Garbage not collected,Sanitation,low,6
+Transformer blast in area,Electricity,high,2
+Unclean public toilet,Sanitation,low,10
+Broken water valve,Water Supply,low,7
+Garbage not collected,Sanitation,low,9
+Street light not working,Road Maintenance,low,7
+Drain overflow issue,Water Supply,medium,3
+Broken speed breaker,Road Maintenance,low,10
+Power outage since morning,Electricity,medium,4
+Water leakage in pipeline,Water Supply,medium,4
+Garbage not collected,Sanitation,low,9
+Dead animal on road,Sanitation,low,6
+Road damaged after rain,Road Maintenance,medium,5
+Drain overflow issue,Water Supply,medium,4
+Low water pressure,Water Supply,low,8
+Frequent voltage fluctuation,Electricity,low,5
+Transformer blast in area,Electricity,high,1
+Broken speed breaker,Road Maintenance,low,8
+Drain overflow issue,Water Supply,medium,3
+Sewage overflow,Sanitation,medium,5
+Frequent voltage fluctuation,Electricity,low,7
+Dustbin broken,Sanitation,low,9
+Cracked pavement,Road Maintenance,low,8
+Low water pressure,Water Supply,low,6
+Meter not working,Electricity,low,9
+Water leakage in pipeline,Water Supply,medium,5
+Road damaged after rain,Road Maintenance,medium,5
+Huge pothole causing accidents,Road Maintenance,high,2
+Garbage not collected,Sanitation,low,8
+Street light not working,Road Maintenance,low,10
+Unclean public toilet,Sanitation,low,6
+Drain overflow issue,Water Supply,medium,4
+Dustbin broken,Sanitation,low,9
+Broken water valve,Water Supply,low,5
+No water supply since 2 days,Water Supply,low,10
+Sewage overflow,Sanitation,medium,5
+Broken water valve,Water Supply,low,6
+Transformer blast in area,Electricity,high,1
+Electric pole sparking,Electricity,low,10
+Power outage since morning,Electricity,medium,5
+Water leakage in pipeline,Water Supply,medium,3
+Water leakage in pipeline,Water Supply,medium,5
+Broken water valve,Water Supply,low,8
+Electric pole sparking,Electricity,low,9
+Electric pole sparking,Electricity,low,9
+Dustbin broken,Sanitation,low,10
+Cracked pavement,Road Maintenance,low,7
+Low water pressure,Water Supply,low,7
+Garbage not collected,Sanitation,low,7
+Drain overflow issue,Water Supply,medium,5
+Road damaged after rain,Road Maintenance,medium,5
+Street light not working,Road Maintenance,low,10
+Water leakage in pipeline,Water Supply,medium,3
+Huge pothole causing accidents,Road Maintenance,high,2
+Unclean public toilet,Sanitation,low,5
+Broken speed breaker,Road Maintenance,low,7
+No water supply since 2 days,Water Supply,low,9
+Dustbin broken,Sanitation,low,6
+Broken speed breaker,Road Maintenance,low,10
+Broken speed breaker,Road Maintenance,low,8
+Garbage not collected,Sanitation,low,5
+Low water pressure,Water Supply,low,9
+Meter not working,Electricity,low,8
+Frequent voltage fluctuation,Electricity,low,7
+Unclean public toilet,Sanitation,low,6
+Sewage overflow,Sanitation,medium,4
+Frequent voltage fluctuation,Electricity,low,5
+Garbage not collected,Sanitation,low,8
+Sewage overflow,Sanitation,medium,4
+Huge pothole causing accidents,Road Maintenance,high,1
+Road damaged after rain,Road Maintenance,medium,5
+Meter not working,Electricity,low,6
+Drain overflow issue,Water Supply,medium,4
+Huge pothole causing accidents,Road Maintenance,high,2
+No water supply since 2 days,Water Supply,low,6
+Broken speed breaker,Road Maintenance,low,7
+Meter not working,Electricity,low,6
+Road damaged after rain,Road Maintenance,medium,3
+Garbage not collected,Sanitation,low,9
+Garbage not collected,Sanitation,low,6
+Transformer blast in area,Electricity,high,1
+Electric pole sparking,Electricity,low,5
+Cracked pavement,Road Maintenance,low,7
+Transformer blast in area,Electricity,high,1
+Huge pothole causing accidents,Road Maintenance,high,1
+Power outage since morning,Electricity,medium,4
+Electric pole sparking,Electricity,low,10
+Sewage overflow,Sanitation,medium,5
+Cracked pavement,Road Maintenance,low,5
+Unclean public toilet,Sanitation,low,8
+Electric pole sparking,Electricity,low,7
+Cracked pavement,Road Maintenance,low,10
+Transformer blast in area,Electricity,high,2
+Transformer blast in area,Electricity,high,2
+Meter not working,Electricity,low,5
+Sewage overflow,Sanitation,medium,3
+Drain overflow issue,Water Supply,medium,4
+Water leakage in pipeline,Water Supply,medium,5
+Huge pothole causing accidents,Road Maintenance,high,1
+Broken water valve,Water Supply,low,7
+Dustbin broken,Sanitation,low,8
+Street light not working,Road Maintenance,low,7
+Broken speed breaker,Road Maintenance,low,9
+Transformer blast in area,Electricity,high,1
+Street light not working,Road Maintenance,low,6
+Electric pole sparking,Electricity,low,8
+Cracked pavement,Road Maintenance,low,10
+Road damaged after rain,Road Maintenance,medium,5
+Sewage overflow,Sanitation,medium,3
+Meter not working,Electricity,low,5
+Drain overflow issue,Water Supply,medium,4
+Cracked pavement,Road Maintenance,low,8
+Sewage overflow,Sanitation,medium,5
+Power outage since morning,Electricity,medium,5
+Low water pressure,Water Supply,low,8
+Frequent voltage fluctuation,Electricity,low,6
+Meter not working,Electricity,low,9
+Unclean public toilet,Sanitation,low,9
+No water supply since 2 days,Water Supply,low,7
+No water supply since 2 days,Water Supply,low,7
+Sewage overflow,Sanitation,medium,3
+Electric pole sparking,Electricity,low,7
+Meter not working,Electricity,low,8
+Dustbin broken,Sanitation,low,9
+Huge pothole causing accidents,Road Maintenance,high,2
+Huge pothole causing accidents,Road Maintenance,high,1
+Street light not working,Road Maintenance,low,6
+Low water pressure,Water Supply,low,6
+Frequent voltage fluctuation,Electricity,low,9
+Frequent voltage fluctuation,Electricity,low,5
+Transformer blast in area,Electricity,high,2
+Low water pressure,Water Supply,low,6
+Power outage since morning,Electricity,medium,4
+Dustbin broken,Sanitation,low,7
+Water leakage in pipeline,Water Supply,medium,3
+Frequent voltage fluctuation,Electricity,low,10
+Dead animal on road,Sanitation,low,7
+Drain overflow issue,Water Supply,medium,5
+Transformer blast in area,Electricity,high,2
+Dustbin broken,Sanitation,low,9
+Garbage not collected,Sanitation,low,5
+Dustbin broken,Sanitation,low,6
+Unclean public toilet,Sanitation,low,9
+Drain overflow issue,Water Supply,medium,3
+Low water pressure,Water Supply,low,9
+Cracked pavement,Road Maintenance,low,9
+Meter not working,Electricity,low,5
+Frequent voltage fluctuation,Electricity,low,8
+Electric pole sparking,Electricity,low,7
+Transformer blast in area,Electricity,high,2
+Transformer blast in area,Electricity,high,2
+Cracked pavement,Road Maintenance,low,9
+Transformer blast in area,Electricity,high,2
+Cracked pavement,Road Maintenance,low,9
+Drain overflow issue,Water Supply,medium,5
+Sewage overflow,Sanitation,medium,5
+Electric pole sparking,Electricity,low,9
+Meter not working,Electricity,low,9
+No water supply since 2 days,Water Supply,low,8
+Road damaged after rain,Road Maintenance,medium,4
+Electric pole sparking,Electricity,low,6
+Cracked pavement,Road Maintenance,low,6
+Low water pressure,Water Supply,low,5
+Broken water valve,Water Supply,low,7
+Cracked pavement,Road Maintenance,low,10
+Huge pothole causing accidents,Road Maintenance,high,2
+Street light not working,Road Maintenance,low,8
+Water leakage in pipeline,Water Supply,medium,3
+Cracked pavement,Road Maintenance,low,10
+Dustbin broken,Sanitation,low,6
+Broken water valve,Water Supply,low,6
+Meter not working,Electricity,low,10
+No water supply since 2 days,Water Supply,low,5
+Huge pothole causing accidents,Road Maintenance,high,1
+Low water pressure,Water Supply,low,5
+Power outage since morning,Electricity,medium,5
+Dead animal on road,Sanitation,low,10
+Cracked pavement,Road Maintenance,low,6
+Garbage not collected,Sanitation,low,9
+Dustbin broken,Sanitation,low,5
+Road damaged after rain,Road Maintenance,medium,4
+Transformer blast in area,Electricity,high,1
+Drain overflow issue,Water Supply,medium,4
+Transformer blast in area,Electricity,high,2
+Transformer blast in area,Electricity,high,1
+No water supply since 2 days,Water Supply,low,7
+Electric pole sparking,Electricity,low,10
+Dead animal on road,Sanitation,low,9
+Drain overflow issue,Water Supply,medium,3
+Garbage not collected,Sanitation,low,10
+Electric pole sparking,Electricity,low,6
+Transformer blast in area,Electricity,high,2
+Water leakage in pipeline,Water Supply,medium,4
+Low water pressure,Water Supply,low,8
+Broken water valve,Water Supply,low,9
+Huge pothole causing accidents,Road Maintenance,high,1
+Dustbin broken,Sanitation,low,7
+Power outage since morning,Electricity,medium,3
+Power outage since morning,Electricity,medium,4
+Street light not working,Road Maintenance,low,6
+Dustbin broken,Sanitation,low,6
+Broken speed breaker,Road Maintenance,low,7
+Broken water valve,Water Supply,low,10
+Huge pothole causing accidents,Road Maintenance,high,2
+Sewage overflow,Sanitation,medium,4
+Dustbin broken,Sanitation,low,10
+Sewage overflow,Sanitation,medium,4
+Broken speed breaker,Road Maintenance,low,5
+Huge pothole causing accidents,Road Maintenance,high,1
+Broken water valve,Water Supply,low,7
+Sewage overflow,Sanitation,medium,3
+Transformer blast in area,Electricity,high,2
+Garbage not collected,Sanitation,low,8
+Sewage overflow,Sanitation,medium,4
+Huge pothole causing accidents,Road Maintenance,high,2
+Garbage not collected,Sanitation,low,5
+Huge pothole causing accidents,Road Maintenance,high,1
+Huge pothole causing accidents,Road Maintenance,high,1
+Dustbin broken,Sanitation,low,10
+Broken speed breaker,Road Maintenance,low,10
+Sewage overflow,Sanitation,medium,3
+Low water pressure,Water Supply,low,7
+Huge pothole causing accidents,Road Maintenance,high,2
+Dead animal on road,Sanitation,low,7
+Power outage since morning,Electricity,medium,3
+Drain overflow issue,Water Supply,medium,3
+No water supply since 2 days,Water Supply,low,9
+Dead animal on road,Sanitation,low,10
+No water supply since 2 days,Water Supply,low,5
+Power outage since morning,Electricity,medium,3
+Frequent voltage fluctuation,Electricity,low,7
+Dustbin broken,Sanitation,low,5
+Low water pressure,Water Supply,low,5
+Sewage overflow,Sanitation,medium,4
+Frequent voltage fluctuation,Electricity,low,5
+Transformer blast in area,Electricity,high,1
+No water supply since 2 days,Water Supply,low,5
+Garbage not collected,Sanitation,low,9
+Unclean public toilet,Sanitation,low,7
+Power outage since morning,Electricity,medium,5
+Garbage not collected,Sanitation,low,7
+Dead animal on road,Sanitation,low,9
+Transformer blast in area,Electricity,high,2
+Meter not working,Electricity,low,10
+Street light not working,Road Maintenance,low,5
+Meter not working,Electricity,low,10
+Road damaged after rain,Road Maintenance,medium,3
+Garbage not collected,Sanitation,low,8
+Transformer blast in area,Electricity,high,2
+Huge pothole causing accidents,Road Maintenance,high,2
+Street light not working,Road Maintenance,low,10
+Dead animal on road,Sanitation,low,8
+Electric pole sparking,Electricity,low,6
+Frequent voltage fluctuation,Electricity,low,6
+Broken speed breaker,Road Maintenance,low,8
+Garbage not collected,Sanitation,low,5
+Drain overflow issue,Water Supply,medium,4
+Dustbin broken,Sanitation,low,9
+Low water pressure,Water Supply,low,10
+Sewage overflow,Sanitation,medium,4
+Huge pothole causing accidents,Road Maintenance,high,1
+Meter not working,Electricity,low,6
+Huge pothole causing accidents,Road Maintenance,high,1
+Broken speed breaker,Road Maintenance,low,10
+Broken water valve,Water Supply,low,7
+Huge pothole causing accidents,Road Maintenance,high,1
+Meter not working,Electricity,low,7
+Sewage overflow,Sanitation,medium,3
+Broken speed breaker,Road Maintenance,low,7
+Low water pressure,Water Supply,low,7
+Water leakage in pipeline,Water Supply,medium,4
+Transformer blast in area,Electricity,high,2
+Power outage since morning,Electricity,medium,5
+Drain overflow issue,Water Supply,medium,4
+Dead animal on road,Sanitation,low,7
+Power outage since morning,Electricity,medium,3
+Sewage overflow,Sanitation,medium,3
+Dustbin broken,Sanitation,low,9
+Frequent voltage fluctuation,Electricity,low,5
+Low water pressure,Water Supply,low,8
+Dustbin broken,Sanitation,low,6
+Power outage since morning,Electricity,medium,3
+Garbage not collected,Sanitation,low,9
+Dustbin broken,Sanitation,low,9
+Meter not working,Electricity,low,10
+No water supply since 2 days,Water Supply,low,6
+Low water pressure,Water Supply,low,8
+Dead animal on road,Sanitation,low,9
+Huge pothole causing accidents,Road Maintenance,high,2
+Water leakage in pipeline,Water Supply,medium,5
+Water leakage in pipeline,Water Supply,medium,4
+Electric pole sparking,Electricity,low,6
+Meter not working,Electricity,low,9
+Meter not working,Electricity,low,5
+Street light not working,Road Maintenance,low,8
+Frequent voltage fluctuation,Electricity,low,6
+Dustbin broken,Sanitation,low,6
+Sewage overflow,Sanitation,medium,5
+Road damaged after rain,Road Maintenance,medium,5
+No water supply since 2 days,Water Supply,low,10
+Dustbin broken,Sanitation,low,7
+Water leakage in pipeline,Water Supply,medium,4
+Street light not working,Road Maintenance,low,8
+Dustbin broken,Sanitation,low,6
+Transformer blast in area,Electricity,high,1
+Drain overflow issue,Water Supply,medium,5
+Power outage since morning,Electricity,medium,4
+Transformer blast in area,Electricity,high,1
+Broken water valve,Water Supply,low,10
+Dustbin broken,Sanitation,low,8
+Dead animal on road,Sanitation,low,9
+Electric pole sparking,Electricity,low,8
+Broken water valve,Water Supply,low,5
+Road damaged after rain,Road Maintenance,medium,5
+Meter not working,Electricity,low,5
+Garbage not collected,Sanitation,low,6
+Drain overflow issue,Water Supply,medium,4
+Water leakage in pipeline,Water Supply,medium,3
+Dustbin broken,Sanitation,low,6
+Transformer blast in area,Electricity,high,2
+Electric pole sparking,Electricity,low,9
+No water supply since 2 days,Water Supply,low,9
+Cracked pavement,Road Maintenance,low,9
+Power outage since morning,Electricity,medium,3
+Dead animal on road,Sanitation,low,6
+Cracked pavement,Road Maintenance,low,6
+Dead animal on road,Sanitation,low,8
+Electric pole sparking,Electricity,low,9
+Water leakage in pipeline,Water Supply,medium,3
+Huge pothole causing accidents,Road Maintenance,high,1
+Power outage since morning,Electricity,medium,4
+Electric pole sparking,Electricity,low,8
+Dustbin broken,Sanitation,low,9
+Electric pole sparking,Electricity,low,5
+Low water pressure,Water Supply,low,9
+Electric pole sparking,Electricity,low,5
+Transformer blast in area,Electricity,high,1
+Electric pole sparking,Electricity,low,5
+Broken speed breaker,Road Maintenance,low,7
+No water supply since 2 days,Water Supply,low,7
+Huge pothole causing accidents,Road Maintenance,high,2
+Road damaged after rain,Road Maintenance,medium,3
+Broken water valve,Water Supply,low,5
+Electric pole sparking,Electricity,low,8
+Road damaged after rain,Road Maintenance,medium,3
+Frequent voltage fluctuation,Electricity,low,9
+Unclean public toilet,Sanitation,low,7
+Frequent voltage fluctuation,Electricity,low,6
+Transformer blast in area,Electricity,high,1
+Electric pole sparking,Electricity,low,8
+Broken speed breaker,Road Maintenance,low,7
+Power outage since morning,Electricity,medium,4
+Cracked pavement,Road Maintenance,low,5
+Broken water valve,Water Supply,low,5
+Broken speed breaker,Road Maintenance,low,9
+Water leakage in pipeline,Water Supply,medium,4
+Meter not working,Electricity,low,6
+Dead animal on road,Sanitation,low,6
+Huge pothole causing accidents,Road Maintenance,high,2
+No water supply since 2 days,Water Supply,low,7
+Huge pothole causing accidents,Road Maintenance,high,1
+Garbage not collected,Sanitation,low,6
+Unclean public toilet,Sanitation,low,10
+Electric pole sparking,Electricity,low,8
+Sewage overflow,Sanitation,medium,4
+Huge pothole causing accidents,Road Maintenance,high,2
+Frequent voltage fluctuation,Electricity,low,6
+Dustbin broken,Sanitation,low,6
+Road damaged after rain,Road Maintenance,medium,5
+Low water pressure,Water Supply,low,9
+Garbage not collected,Sanitation,low,9
+Drain overflow issue,Water Supply,medium,3
+Drain overflow issue,Water Supply,medium,5
+Sewage overflow,Sanitation,medium,4
+Huge pothole causing accidents,Road Maintenance,high,2
+Drain overflow issue,Water Supply,medium,3
+Garbage not collected,Sanitation,low,5
+Power outage since morning,Electricity,medium,3
+Meter not working,Electricity,low,9
+Huge pothole causing accidents,Road Maintenance,high,2
+Frequent voltage fluctuation,Electricity,low,7
+Garbage not collected,Sanitation,low,5
+Electric pole sparking,Electricity,low,10
+Dead animal on road,Sanitation,low,6
+Electric pole sparking,Electricity,low,8
+Low water pressure,Water Supply,low,7
+Electric pole sparking,Electricity,low,10
+Cracked pavement,Road Maintenance,low,8
+Power outage since morning,Electricity,medium,3
+Dustbin broken,Sanitation,low,10
+Cracked pavement,Road Maintenance,low,7
+Electric pole sparking,Electricity,low,6
+Dead animal on road,Sanitation,low,9
+Power outage since morning,Electricity,medium,5
+Power outage since morning,Electricity,medium,4
+Dead animal on road,Sanitation,low,5
+Frequent voltage fluctuation,Electricity,low,6
+Broken speed breaker,Road Maintenance,low,10
+Low water pressure,Water Supply,low,7
+Frequent voltage fluctuation,Electricity,low,5
+Road damaged after rain,Road Maintenance,medium,5
+Broken water valve,Water Supply,low,8
+Broken speed breaker,Road Maintenance,low,6
+Huge pothole causing accidents,Road Maintenance,high,2
+Road damaged after rain,Road Maintenance,medium,4
+Meter not working,Electricity,low,10
+Cracked pavement,Road Maintenance,low,8
+Road damaged after rain,Road Maintenance,medium,3
+Road damaged after rain,Road Maintenance,medium,5
+Street light not working,Road Maintenance,low,8
+Dustbin broken,Sanitation,low,10
+Meter not working,Electricity,low,10
+Unclean public toilet,Sanitation,low,10
+Electric pole sparking,Electricity,low,9
+Street light not working,Road Maintenance,low,6
+Broken speed breaker,Road Maintenance,low,5
+Garbage not collected,Sanitation,low,8
+Huge pothole causing accidents,Road Maintenance,high,2
+Garbage not collected,Sanitation,low,7
+No water supply since 2 days,Water Supply,low,6
+Low water pressure,Water Supply,low,6
+No water supply since 2 days,Water Supply,low,10
+Unclean public toilet,Sanitation,low,7
+Road damaged after rain,Road Maintenance,medium,4
+Power outage since morning,Electricity,medium,3
+No water supply since 2 days,Water Supply,low,5
+Street light not working,Road Maintenance,low,6
+Road damaged after rain,Road Maintenance,medium,5
+No water supply since 2 days,Water Supply,low,5
+Meter not working,Electricity,low,6
+Transformer blast in area,Electricity,high,1
+Frequent voltage fluctuation,Electricity,low,10
+Huge pothole causing accidents,Road Maintenance,high,1
+Dustbin broken,Sanitation,low,10
+Road damaged after rain,Road Maintenance,medium,3
+Transformer blast in area,Electricity,high,1
+Electric pole sparking,Electricity,low,9
+Sewage overflow,Sanitation,medium,4
+Street light not working,Road Maintenance,low,10
+Water leakage in pipeline,Water Supply,medium,3
+Huge pothole causing accidents,Road Maintenance,high,1
+Cracked pavement,Road Maintenance,low,10
+Water leakage in pipeline,Water Supply,medium,5
+Road damaged after rain,Road Maintenance,medium,5
+Huge pothole causing accidents,Road Maintenance,high,2
+Road damaged after rain,Road Maintenance,medium,4
+Electric pole sparking,Electricity,low,8
+Cracked pavement,Road Maintenance,low,6
+Power outage since morning,Electricity,medium,4
+Sewage overflow,Sanitation,medium,5
+Power outage since morning,Electricity,medium,5
+Water leakage in pipeline,Water Supply,medium,4
+Unclean public toilet,Sanitation,low,5
+Broken water valve,Water Supply,low,7
+Sewage overflow,Sanitation,medium,5
+Drain overflow issue,Water Supply,medium,5
+Dustbin broken,Sanitation,low,6
+Meter not working,Electricity,low,8
+Transformer blast in area,Electricity,high,1
+Dustbin broken,Sanitation,low,8
+Water leakage in pipeline,Water Supply,medium,4
+Cracked pavement,Road Maintenance,low,7
+Meter not working,Electricity,low,5
+Transformer blast in area,Electricity,high,2
+Unclean public toilet,Sanitation,low,9
+Meter not working,Electricity,low,8
+Road damaged after rain,Road Maintenance,medium,4
+Electric pole sparking,Electricity,low,10
+Road damaged after rain,Road Maintenance,medium,5
+Meter not working,Electricity,low,10
+Sewage overflow,Sanitation,medium,3
+Huge pothole causing accidents,Road Maintenance,high,1
+Transformer blast in area,Electricity,high,2
+Low water pressure,Water Supply,low,9
+No water supply since 2 days,Water Supply,low,8
+Water leakage in pipeline,Water Supply,medium,3
+Dustbin broken,Sanitation,low,6
+Dustbin broken,Sanitation,low,10
+Unclean public toilet,Sanitation,low,5
+Frequent voltage fluctuation,Electricity,low,7
+Power outage since morning,Electricity,medium,3
+Dustbin broken,Sanitation,low,8
+Dead animal on road,Sanitation,low,9
+Dead animal on road,Sanitation,low,7
+Electric pole sparking,Electricity,low,7
+Dustbin broken,Sanitation,low,7
+Dustbin broken,Sanitation,low,9
+Unclean public toilet,Sanitation,low,9
+Garbage not collected,Sanitation,low,9
+Water leakage in pipeline,Water Supply,medium,5
+Street light not working,Road Maintenance,low,7
+Cracked pavement,Road Maintenance,low,5
+Transformer blast in area,Electricity,high,1
+Road damaged after rain,Road Maintenance,medium,4
+Dustbin broken,Sanitation,low,9
+Sewage overflow,Sanitation,medium,4
+Frequent voltage fluctuation,Electricity,low,7
+Meter not working,Electricity,low,8
+Broken speed breaker,Road Maintenance,low,5
+Meter not working,Electricity,low,8
+Road damaged after rain,Road Maintenance,medium,5
+No water supply since 2 days,Water Supply,low,8
+Electric pole sparking,Electricity,low,6
+Huge pothole causing accidents,Road Maintenance,high,2
+Road damaged after rain,Road Maintenance,medium,4
+No water supply since 2 days,Water Supply,low,8
+Dead animal on road,Sanitation,low,9
+Meter not working,Electricity,low,5
+Cracked pavement,Road Maintenance,low,5
+Drain overflow issue,Water Supply,medium,5
+Sewage overflow,Sanitation,medium,5
+Low water pressure,Water Supply,low,8
+Low water pressure,Water Supply,low,6
+Dead animal on road,Sanitation,low,10
+Drain overflow issue,Water Supply,medium,4
+Huge pothole causing accidents,Road Maintenance,high,1
+Power outage since morning,Electricity,medium,4
+Garbage not collected,Sanitation,low,9
+Street light not working,Road Maintenance,low,7
+Garbage not collected,Sanitation,low,7
+Low water pressure,Water Supply,low,5
+Unclean public toilet,Sanitation,low,6
+Huge pothole causing accidents,Road Maintenance,high,2
+Transformer blast in area,Electricity,high,1
+Dustbin broken,Sanitation,low,5
+Broken speed breaker,Road Maintenance,low,5
+Frequent voltage fluctuation,Electricity,low,7
+Dustbin broken,Sanitation,low,9
+Street light not working,Road Maintenance,low,10
+Meter not working,Electricity,low,7
+Dustbin broken,Sanitation,low,8
+Transformer blast in area,Electricity,high,1
+Frequent voltage fluctuation,Electricity,low,8
+Electric pole sparking,Electricity,low,7
+Water leakage in pipeline,Water Supply,medium,4
+Cracked pavement,Road Maintenance,low,10
+Sewage overflow,Sanitation,medium,5
+No water supply since 2 days,Water Supply,low,10
+No water supply since 2 days,Water Supply,low,8
+Sewage overflow,Sanitation,medium,3
+No water supply since 2 days,Water Supply,low,7
+Frequent voltage fluctuation,Electricity,low,10
+Low water pressure,Water Supply,low,5
+Drain overflow issue,Water Supply,medium,3
+Broken water valve,Water Supply,low,10
+Huge pothole causing accidents,Road Maintenance,high,1
+Frequent voltage fluctuation,Electricity,low,5
+Cracked pavement,Road Maintenance,low,10
+Broken speed breaker,Road Maintenance,low,8
+Garbage not collected,Sanitation,low,6
+Road damaged after rain,Road Maintenance,medium,4
+Water leakage in pipeline,Water Supply,medium,5
+Low water pressure,Water Supply,low,6
+Drain overflow issue,Water Supply,medium,4
+Garbage not collected,Sanitation,low,7
+Road damaged after rain,Road Maintenance,medium,3
+Low water pressure,Water Supply,low,8
+Frequent voltage fluctuation,Electricity,low,10
+Water leakage in pipeline,Water Supply,medium,4
+Power outage since morning,Electricity,medium,5
+Broken water valve,Water Supply,low,5
+Water leakage in pipeline,Water Supply,medium,3
+Garbage not collected,Sanitation,low,5
+Sewage overflow,Sanitation,medium,5
+Road damaged after rain,Road Maintenance,medium,3
+Garbage not collected,Sanitation,low,8
+Electric pole sparking,Electricity,low,7
+No water supply since 2 days,Water Supply,low,8
+Broken speed breaker,Road Maintenance,low,7
+Water leakage in pipeline,Water Supply,medium,5
+Dead animal on road,Sanitation,low,9
+Cracked pavement,Road Maintenance,low,6
+Broken water valve,Water Supply,low,7
+Power outage since morning,Electricity,medium,4
+Cracked pavement,Road Maintenance,low,6
+Power outage since morning,Electricity,medium,5
+Low water pressure,Water Supply,low,9
+Unclean public toilet,Sanitation,low,6
+Drain overflow issue,Water Supply,medium,4
+Frequent voltage fluctuation,Electricity,low,8
+Dead animal on road,Sanitation,low,6
+Power outage since morning,Electricity,medium,5
+Water leakage in pipeline,Water Supply,medium,5
+Water leakage in pipeline,Water Supply,medium,3
+Huge pothole causing accidents,Road Maintenance,high,1
+Garbage not collected,Sanitation,low,5
+Sewage overflow,Sanitation,medium,4
+Dead animal on road,Sanitation,low,6
+Street light not working,Road Maintenance,low,9
+No water supply since 2 days,Water Supply,low,6
+No water supply since 2 days,Water Supply,low,7
+Meter not working,Electricity,low,5
+Dustbin broken,Sanitation,low,8
+Dead animal on road,Sanitation,low,9
+Unclean public toilet,Sanitation,low,9
+No water supply since 2 days,Water Supply,low,10
+Street light not working,Road Maintenance,low,6
+Road damaged after rain,Road Maintenance,medium,5
+Drain overflow issue,Water Supply,medium,4
+Garbage not collected,Sanitation,low,9
+Broken water valve,Water Supply,low,9
+Garbage not collected,Sanitation,low,6
+Frequent voltage fluctuation,Electricity,low,9
+Meter not working,Electricity,low,6
+Electric pole sparking,Electricity,low,9
+Low water pressure,Water Supply,low,8
+Dustbin broken,Sanitation,low,9
+Transformer blast in area,Electricity,high,2
+Road damaged after rain,Road Maintenance,medium,5
+Drain overflow issue,Water Supply,medium,3
+Huge pothole causing accidents,Road Maintenance,high,1
+Power outage since morning,Electricity,medium,3
+Low water pressure,Water Supply,low,7
+Drain overflow issue,Water Supply,medium,3
+Power outage since morning,Electricity,medium,3
+Road damaged after rain,Road Maintenance,medium,5
+No water supply since 2 days,Water Supply,low,7
+Drain overflow issue,Water Supply,medium,4
+Cracked pavement,Road Maintenance,low,6
+Meter not working,Electricity,low,7
+Dead animal on road,Sanitation,low,6
+Road damaged after rain,Road Maintenance,medium,5
+Dustbin broken,Sanitation,low,7
+Low water pressure,Water Supply,low,8
+Cracked pavement,Road Maintenance,low,5
+Sewage overflow,Sanitation,medium,4
+Street light not working,Road Maintenance,low,8
+Electric pole sparking,Electricity,low,5
+Meter not working,Electricity,low,5
+Drain overflow issue,Water Supply,medium,4
+Cracked pavement,Road Maintenance,low,5
+Meter not working,Electricity,low,9
+Drain overflow issue,Water Supply,medium,3
+Drain overflow issue,Water Supply,medium,5
+Electric pole sparking,Electricity,low,8
+Low water pressure,Water Supply,low,8
+Meter not working,Electricity,low,10
+Low water pressure,Water Supply,low,9
+Unclean public toilet,Sanitation,low,8
+Cracked pavement,Road Maintenance,low,6
+Broken water valve,Water Supply,low,9
+Broken water valve,Water Supply,low,5
+Transformer blast in area,Electricity,high,2
+Huge pothole causing accidents,Road Maintenance,high,1
+Low water pressure,Water Supply,low,6
+Low water pressure,Water Supply,low,5
+Sewage overflow,Sanitation,medium,5
+Street light not working,Road Maintenance,low,5
+Electric pole sparking,Electricity,low,8
+Sewage overflow,Sanitation,medium,3
+Power outage since morning,Electricity,medium,3
+Sewage overflow,Sanitation,medium,5
+Huge pothole causing accidents,Road Maintenance,high,1
+Broken speed breaker,Road Maintenance,low,10
+Unclean public toilet,Sanitation,low,5
+Low water pressure,Water Supply,low,8
+Low water pressure,Water Supply,low,9
+Unclean public toilet,Sanitation,low,9
+Dead animal on road,Sanitation,low,10
+Street light not working,Road Maintenance,low,10
+No water supply since 2 days,Water Supply,low,10
+Dustbin broken,Sanitation,low,8
+Road damaged after rain,Road Maintenance,medium,3
+Water leakage in pipeline,Water Supply,medium,5
+Power outage since morning,Electricity,medium,3
+Sewage overflow,Sanitation,medium,3
+Dustbin broken,Sanitation,low,5
+Sewage overflow,Sanitation,medium,3
+Garbage not collected,Sanitation,low,5
+Dustbin broken,Sanitation,low,9
+Low water pressure,Water Supply,low,10
+Cracked pavement,Road Maintenance,low,5
+Road damaged after rain,Road Maintenance,medium,4
+Dead animal on road,Sanitation,low,8
+Power outage since morning,Electricity,medium,4
+Huge pothole causing accidents,Road Maintenance,high,1
+Huge pothole causing accidents,Road Maintenance,high,2
+Transformer blast in area,Electricity,high,1
+Sewage overflow,Sanitation,medium,4
+Transformer blast in area,Electricity,high,2
+Unclean public toilet,Sanitation,low,8
+Dead animal on road,Sanitation,low,10
+Transformer blast in area,Electricity,high,1
+Electric pole sparking,Electricity,low,7
+Garbage not collected,Sanitation,low,9
+Huge pothole causing accidents,Road Maintenance,high,2
+Cracked pavement,Road Maintenance,low,5
+Dustbin broken,Sanitation,low,9
+Dustbin broken,Sanitation,low,10
+Low water pressure,Water Supply,low,9
+Power outage since morning,Electricity,medium,5
+Unclean public toilet,Sanitation,low,10
+Road damaged after rain,Road Maintenance,medium,5
+Street light not working,Road Maintenance,low,9
+Power outage since morning,Electricity,medium,4
+Cracked pavement,Road Maintenance,low,7
+Power outage since morning,Electricity,medium,3
+Meter not working,Electricity,low,5
+Broken speed breaker,Road Maintenance,low,5
+Huge pothole causing accidents,Road Maintenance,high,2
+Garbage not collected,Sanitation,low,7
+Meter not working,Electricity,low,6
+Water leakage in pipeline,Water Supply,medium,5
+Sewage overflow,Sanitation,medium,4
+Transformer blast in area,Electricity,high,1
+Unclean public toilet,Sanitation,low,9
+Garbage not collected,Sanitation,low,6
+Dead animal on road,Sanitation,low,9
+Power outage since morning,Electricity,medium,3
+Garbage not collected,Sanitation,low,8
