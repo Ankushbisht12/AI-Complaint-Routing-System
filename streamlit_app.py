@@ -179,43 +179,102 @@ def view_complaints():
 
     if response.status_code != 200:
         st.error("Unable to fetch complaints")
+        st.write(response.text)
         return
 
     complaints = response.json()
 
-    for c in complaints:
-        st.markdown("---")
-        st.write(f"**ID:** {c['id']}")
-        st.write(f"**Location:** {c['location']}")
-        st.write(f"**Text:** {c['text']}")
-        st.write(f"**Status:** {c['status']}")
+    if not complaints:
+        st.info("No complaints found.")
+        return
 
-        if st.session_state.role == "admin" and c["status"] == "pending":
+    # ==========================
+    # ADMIN VIEW
+    # ==========================
+    if st.session_state.role == "admin":
 
-            actual_priority = st.selectbox(
-                "Actual Priority",
-                ["low", "medium", "high"],
-                key=f"priority_{c['id']}"
-            )
+        users = {}
 
-            resolution_days = st.number_input(
-                "Resolution Days",
-                min_value=0.0,
-                key=f"days_{c['id']}"
-            )
+        for c in complaints:
+            key = f"{c.get('user_name', 'Unknown')} ({c.get('flat_number', 'N/A')})"
+            if key not in users:
+                users[key] = []
+            users[key].append(c)
 
-            if st.button("Resolve", key=f"resolve_{c['id']}"):
+        for user, user_complaints in users.items():
 
-                requests.put(
-                    f"{API_BASE}/resolve-complaint/{c['id']}",
-                    params={
-                        "actual_priority": actual_priority,
-                        "actual_resolution_days": resolution_days
-                    }
-                )
+            st.markdown(f"## 👤 {user}")
+            st.markdown("---")
 
-                st.success("Complaint Resolved")
-                st.rerun()
+            for c in user_complaints:
+
+                st.write(f"**Complaint ID:** {c['id']}")
+                st.write(f"**Location:** {c['location']}")
+                st.write(f"**Text:** {c['text']}")
+                st.write(f"**Status:** {c['status']}")
+
+                # Only allow resolve if pending
+                if c["status"] == "pending":
+
+                    actual_priority = st.selectbox(
+                        "Actual Priority",
+                        ["low", "medium", "high"],
+                        key=f"priority_{c['id']}"
+                    )
+
+                    resolution_days = st.number_input(
+                        "Resolution Days",
+                        min_value=0.0,
+                        step=0.5,
+                        key=f"days_{c['id']}"
+                    )
+
+                    if st.button("Resolve Complaint", key=f"resolve_{c['id']}"):
+
+                        resolve_response = requests.put(
+                            f"{API_BASE}/resolve-complaint/{c['id']}",
+                            headers=headers,
+                            params={
+                                "actual_priority": actual_priority,
+                                "actual_resolution_days": resolution_days
+                            }
+                        )
+
+                        if resolve_response.status_code == 200:
+                            st.success("Complaint Resolved Successfully")
+                            st.rerun()
+                        else:
+                            st.error("Failed to resolve complaint")
+                            st.write(resolve_response.text)
+
+                else:
+                    # Show resolved info
+                    st.success("✅ Complaint already resolved")
+                    st.write(f"Actual Priority: {c.get('actual_priority', '-')}")
+                    st.write(f"Resolution Days: {c.get('actual_resolution_days', '-')}")
+
+                st.markdown("-----")
+
+    # ==========================
+    # USER VIEW
+    # ==========================
+    else:
+
+        for c in complaints:
+
+            st.markdown("---")
+            st.write(f"**Complaint ID:** {c['id']}")
+            st.write(f"**Location:** {c['location']}")
+            st.write(f"**Text:** {c['text']}")
+            st.write(f"**Status:** {c['status']}")
+
+            if c["status"] == "resolved":
+                st.success("✅ This complaint has been resolved.")
+                st.write(f"Actual Priority: {c.get('actual_priority', '-')}")
+                st.write(f"Resolution Days: {c.get('actual_resolution_days', '-')}")
+            else:
+                st.warning("⏳ This complaint is still pending.")
+
 
 # MODEL EVALUATION
 
@@ -224,27 +283,37 @@ def evaluation_dashboard():
     st.title("📊 Model Evaluation Dashboard")
     st.markdown("---")
 
-    response = requests.get(f"{API_BASE}/evaluate-model")
+    response = requests.get(
+        f"{API_BASE}/evaluate-model"
+    )
 
     if response.status_code != 200:
         st.error("Unable to fetch metrics")
+        st.write(response.text)
         return
 
     data = response.json()
 
-    accuracy = data.get("priority_accuracy", 0)
-    f1 = data.get("priority_f1", 0)
-    mae = data.get("eta_mae", 0)
-    total = data.get("total_complaints", 0)
+    # If no data available
+    if "priority_metrics" not in data:
+        st.warning(data.get("message", "No evaluation data available"))
+        return
+
+    accuracy = data["priority_metrics"]["accuracy"]
+    f1 = data["priority_metrics"]["f1_score"]
+    mae = data["eta_metrics"]["mae"]
+    total = data["total_evaluated"]
 
     col1, col2, col3, col4 = st.columns(4)
+
     col1.metric("Priority Accuracy", f"{accuracy:.2%}")
     col2.metric("F1 Score", f"{f1:.2f}")
     col3.metric("ETA MAE (Days)", f"{mae:.2f}")
-    col4.metric("Total Complaints", total)
+    col4.metric("Total Evaluated", total)
 
     st.markdown("---")
 
+    # Chart
     chart_data = pd.DataFrame({
         "Metric": ["Accuracy", "F1 Score", "MAE"],
         "Value": [accuracy, f1, mae]
@@ -261,12 +330,10 @@ with st.sidebar:
         page = st.radio("Go to", [
             "Login",
             "Register",
-            "Model Evaluation"
         ])
     else:
         if st.session_state.role == "admin":
             page = st.radio("Go to", [
-                "Submit Complaint",
                 "All Complaints",
                 "Model Evaluation",
                 "Logout"
@@ -275,7 +342,6 @@ with st.sidebar:
             page = st.radio("Go to", [
                 "Submit Complaint",
                 "My Complaints",
-                "Model Evaluation",
                 "Logout"
             ])
 

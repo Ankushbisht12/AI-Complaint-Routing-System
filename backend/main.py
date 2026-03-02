@@ -220,7 +220,7 @@ def resolve_complaint(
 
     complaint.actual_priority = actual_priority
     complaint.actual_resolution_days = actual_resolution_days
-    complaint.resolved_at = datetime.datetime.utcnow()
+    complaint.resolved_at = datetime.utcnow()
     complaint.status = ComplaintStatus.resolved
 
     db.commit()
@@ -249,4 +249,14 @@ def get_complaints(
             Complaint.user_id == current_user.id
         ).all()
 
-    return complaints
+    result = []
+    for c in complaints:
+        result.append({
+            "id": c.id,
+            "text": c.text,
+            "location": c.location,
+            "status": c.status,
+            "user_name": c.user.name,
+            "flat_number": c.user.flat_number
+            })
+    return result
