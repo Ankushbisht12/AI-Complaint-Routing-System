@@ -19,10 +19,8 @@ embedding_model = SentenceTransformer("sentence-transformers/all-MiniLM-L6-v2")
 print("Generating embeddings...")
 X_embeddings = embedding_model.encode(df["text"].tolist())
 
-# =========================
-# PRIORITY CLASSIFICATION
-# =========================
 
+# PRIORITY CLASSIFICATION
 print("\nTraining Priority Classifier...")
 
 y_priority = df["priority"]
@@ -45,10 +43,8 @@ print("Priority Model F1 Score:", f1)
 joblib.dump(classifier, "priority_model.pkl")
 
 
-# =========================
-# ETA REGRESSION
-# =========================
 
+# ETA REGRESSION
 print("\nTraining ETA Regressor...")
 
 y_eta = df["eta_days"]
